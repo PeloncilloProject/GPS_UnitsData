@@ -1,0 +1,73 @@
+Grid	Lat/Lon hddd.ddddd°
+Datum	WGS 84
+
+Header	Name	Description	Type	Position	Altitude	Depth	Proximity	Temperature	Display Mode	Color	Symbol	Facility	City	State	Country	Date Modified	Link	Categories
+
+Waypoint	#2134	23-MAY-13 10:01:08AM	User Waypoint	N31.48963 W108.95280	1638 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	#2164	23-MAY-13 9:23:40AM	User Waypoint	N31.49097 W108.94852	1634 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	#2166  2133	23-MAY-13 10:22:53AM	User Waypoint	N31.48895 W108.95490	1640 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A1	22-MAY-13 1:56:04PM	User Waypoint	N31.52678 W108.97598	1655 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A10	22-MAY-13 2:43:18PM	User Waypoint	N31.52695 W108.97858	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A11	22-MAY-13 2:44:34PM	User Waypoint	N31.52660 W108.97804	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A12	22-MAY-13 3:10:33PM	User Waypoint	N31.52699 W108.97730	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A13	22-MAY-13 3:15:33PM	User Waypoint	N31.52723 W108.97897	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A13D	22-MAY-13 3:14:18PM	User Waypoint	N31.52724 W108.97857	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A14	22-MAY-13 3:20:16PM	User Waypoint	N31.52768 W108.97901	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A15D	22-MAY-13 3:27:44PM	User Waypoint	N31.52773 W108.97796	1655 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A16D	22-MAY-13 3:28:48PM	User Waypoint	N31.52766 W108.97784	1654 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A17D	22-MAY-13 3:30:06PM	User Waypoint	N31.52764 W108.97768	1654 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A18	22-MAY-13 3:30:58PM	User Waypoint	N31.52758 W108.97753	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A18D	22-MAY-13 3:31:52PM	User Waypoint	N31.52760 W108.97743	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A20	22-MAY-13 3:33:08PM	User Waypoint	N31.52754 W108.97710	1655 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A21D	22-MAY-13 3:35:51PM	User Waypoint	N31.52730 W108.97710	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A22D	22-MAY-13 3:37:01PM	User Waypoint	N31.52741 W108.97740	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A23	22-MAY-13 3:37:52PM	User Waypoint	N31.52748 W108.97760	1650 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A24D	22-MAY-13 3:38:26PM	User Waypoint	N31.52747 W108.97769	1651 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A25D	22-MAY-13 3:39:32PM	User Waypoint	N31.52751 W108.97798	1650 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A26	22-MAY-13 3:42:14PM	User Waypoint	N31.52761 W108.97824	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A26D	22-MAY-13 3:40:23PM	User Waypoint	N31.52750 W108.97812	1651 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A27	22-MAY-13 3:45:28PM	User Waypoint	N31.52766 W108.97887	1651 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A29	22-MAY-13 3:47:34PM	User Waypoint	N31.52742 W108.97840	1650 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A2D	22-MAY-13 2:07:54PM	User Waypoint	N31.52666 W108.97638	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A30	22-MAY-13 3:48:20PM	User Waypoint	N31.52735 W108.97819	1649 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A31	22-MAY-13 3:49:00PM	User Waypoint	N31.52736 W108.97801	1649 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A32	22-MAY-13 3:50:33PM	User Waypoint	N31.52724 W108.97743	1651 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A33	22-MAY-13 3:52:03PM	User Waypoint	N31.52709 W108.97699	1650 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A34D	22-MAY-13 3:52:53PM	User Waypoint	N31.52711 W108.97689	1650 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A35	22-MAY-13 4:08:01PM	User Waypoint	N31.52725 W108.97670	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A35D	22-MAY-13 3:53:26PM	User Waypoint	N31.52719 W108.97688	1651 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A37	22-MAY-13 4:09:26PM	User Waypoint	N31.52720 W108.97628	1651 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A38	22-MAY-13 4:14:05PM	User Waypoint	N31.52700 W108.97648	1651 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A39	22-MAY-13 4:14:50PM	User Waypoint	N31.52706 W108.97668	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A3D	22-MAY-13 2:10:12PM	User Waypoint	N31.52629 W108.97662	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A4	22-MAY-13 2:14:14PM	User Waypoint	N31.52619 W108.97679	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A5	22-MAY-13 2:22:18PM	User Waypoint	N31.52623 W108.97703	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A6	22-MAY-13 2:22:47PM	User Waypoint	N31.52624 W108.97712	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A7	22-MAY-13 2:31:19PM	User Waypoint	N31.52664 W108.97761	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A8	22-MAY-13 2:32:05PM	User Waypoint	N31.52658 W108.97766	1652 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A9	22-MAY-13 2:34:15PM	User Waypoint	N31.52674 W108.97778	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	A9D	22-MAY-13 2:38:06PM	User Waypoint	N31.52674 W108.97836	1654 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Ant Bsp	18-MAY-13 2:31:06PM	User Waypoint	N31.50567 W109.01154	1675 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Bg 100 Cm2	18-MAY-13 3:36:14PM	User Waypoint	N31.50379 W109.01682	1703 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Bw Soil	28-MAY-13 5:14:19PM	User Waypoint	N31.49791 W109.02071	1725 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Fence	26-MAY-13 2:09:35PM	User Waypoint	N31.86923 W109.37329	1753 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Fence Strt	26-MAY-13 1:50:26PM	User Waypoint	N31.86912 W109.37437	1748 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Gab1	27-MAY-13 4:15:09PM	User Waypoint	N31.52731 W108.98932	1671 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Gabion Juan	26-MAY-13 10:36:35AM	User Waypoint	N31.86365 W109.37641	1732 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	gabion Site	19-MAY-13 4:41:00PM	User Waypoint	N31.86402 W109.38380	1730 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Goph Snake	25-MAY-13 12:19:11PM	User Waypoint	N31.86668 W109.37834	1733 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Hoof	22-MAY-13 3:24:52PM	User Waypoint	N31.52791 W108.97893	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Lg1	23-MAY-13 9:30:01AM	User Waypoint	N31.49100 W108.94852	1633 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Lichen 7	22-MAY-13 11:20:14AM	User Waypoint	N31.49318 W108.93664	1616 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Lichen 8	22-MAY-13 11:29:07AM	User Waypoint	N31.49357 W108.93647	1617 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Med 2	18-MAY-13 4:33:11PM	User Waypoint	N31.51231 W109.00121	1674 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Med Wbr	18-MAY-13 4:08:51PM	User Waypoint	N31.50808 W109.00957	1688 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Pelvis	22-MAY-13 3:44:07PM	User Waypoint	N31.52757 W108.97878	1651 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Pool 1, 3Trtls	25-MAY-13 12:21:14PM	User Waypoint	N31.86676 W109.37760	1736 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Pool 2	26-MAY-13 10:50:37AM	User Waypoint	N31.86667 W109.37809	1731 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Possible Ant D	22-MAY-13 2:15:54PM	User Waypoint	N31.52626 W108.97683	1653 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Soil	26-MAY-13 11:09:37AM	User Waypoint	N31.86685 W109.37742	1740 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Soilg1	27-MAY-13 2:58:03PM	User Waypoint	N31.52739 W108.98933	1675 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Soilg2	27-MAY-13 3:03:38PM	User Waypoint	N31.52735 W108.98929	1675 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Zone Tail	18-MAY-13 4:22:07PM	User Waypoint	N31.51021 W109.00546	1681 m				Symbol & Name	Black	Flag, Blue							
+

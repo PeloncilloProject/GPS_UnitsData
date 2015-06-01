@@ -1,0 +1,2277 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2015-05-27T16:32:39Z</time>
+    <bounds maxlat="35.674309534952044" maxlon="-97.472660383209586" minlat="31.444617127999663" minlon="-111.27883826382458" />
+  </metadata>
+
+  <wpt lat="31.488978518173099" lon="-108.94502950832248">
+    <ele>1632.191650390625</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>0023</name>
+    <cmt>16-MAY-15 1:36:04PM</cmt>
+    <desc>16-MAY-15 1:36:04PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.508359406143427" lon="-109.00830927304924">
+    <ele>1684.82373046875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>0033</name>
+    <cmt>17-MAY-15 3:25:45PM</cmt>
+    <desc>17-MAY-15 3:25:45PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.506249262019992" lon="-109.01331335306168">
+    <ele>1696.359375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>0043</name>
+    <cmt>17-MAY-15 4:08:51PM</cmt>
+    <desc>17-MAY-15 4:08:51PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.506330398842692" lon="-109.01330539025366">
+    <ele>1698.522216796875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>0053</name>
+    <cmt>17-MAY-15 4:09:57PM</cmt>
+    <desc>17-MAY-15 4:09:57PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.519172983244061" lon="-109.00767073966563">
+    <ele>1683.38134765625</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>Comp 3M1L 33m2</name>
+    <cmt>18-MAY-15 1:17:14PM</cmt>
+    <desc>18-MAY-15 1:17:14PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.521273907274008" lon="-109.01334235444665">
+    <ele>1688.188232421875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>Dead Juvenile</name>
+    <cmt>18-MAY-15 12:46:47PM</cmt>
+    <desc>18-MAY-15 12:46:47PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.494024088606238" lon="-111.27883826382458">
+    <ele>1211.858642578125</ele>
+    <time>2015-05-16T13:08:11Z</time>
+    <name>Gopher Snake</name>
+    <cmt>14-MAY-15 12:34:59PM</cmt>
+    <desc>14-MAY-15 12:34:59PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-16T13:08:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.526107331737876" lon="-108.97743319161236">
+    <ele>1643.246826171875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>H ANT-BEETLE</name>
+    <cmt>19-MAY-15 8:44:40AM</cmt>
+    <desc>19-MAY-15 8:44:40AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.525884121656418" lon="-108.97765698842704">
+    <ele>1645.40966796875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>H ANT-DIFF ANT</name>
+    <cmt>19-MAY-15 8:45:38AM</cmt>
+    <desc>19-MAY-15 8:45:38AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.525927791371942" lon="-108.97779202088714">
+    <ele>1646.37109375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>H ANT-H ANT</name>
+    <cmt>19-MAY-15 8:46:30AM</cmt>
+    <desc>19-MAY-15 8:46:30AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.526086963713169" lon="-108.9771756157279">
+    <ele>1643.00634765625</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>H ANT-SPIDER</name>
+    <cmt>19-MAY-15 8:43:32AM</cmt>
+    <desc>19-MAY-15 8:43:32AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.489739930257201" lon="-108.94445115700364">
+    <ele>1627.62548828125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>L 16m2</name>
+    <cmt>17-MAY-15 12:46:44PM</cmt>
+    <desc>17-MAY-15 12:46:44PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.48437132127583" lon="-108.94805847667158">
+    <ele>1622.57861328125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>L 18m2</name>
+    <cmt>16-MAY-15 10:56:05AM</cmt>
+    <desc>16-MAY-15 10:56:05AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.484260428696871" lon="-108.94813391380012">
+    <ele>1622.57861328125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>L 24m21</name>
+    <cmt>16-MAY-15 10:57:47AM</cmt>
+    <desc>16-MAY-15 10:57:47AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.49155855178833" lon="-108.93685237504542">
+    <ele>1595.90234375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>L 32m2</name>
+    <cmt>17-MAY-15 11:46:10AM</cmt>
+    <desc>17-MAY-15 11:46:10AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.487853331491351" lon="-108.94571204669774">
+    <ele>1634.1142578125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>L 52m2</name>
+    <cmt>16-MAY-15 1:00:32PM</cmt>
+    <desc>16-MAY-15 1:00:32PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.506531564518809" lon="-109.01006578467786">
+    <ele>1688.428466796875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>L3 18m2</name>
+    <cmt>17-MAY-15 3:41:24PM</cmt>
+    <desc>17-MAY-15 3:41:24PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.50625797919929" lon="-109.0133136883378">
+    <ele>1697.80126953125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>L6 24m2</name>
+    <cmt>17-MAY-15 4:06:02PM</cmt>
+    <desc>17-MAY-15 4:06:02PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.503808116540313" lon="-109.01670098304749">
+    <ele>1710.77880859375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>L8 36m2</name>
+    <cmt>17-MAY-15 4:40:49PM</cmt>
+    <desc>17-MAY-15 4:40:49PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.477785911411047" lon="-109.01434759609401">
+    <ele>1714.6240234375</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>M 10m2</name>
+    <cmt>12-MAY-15 4:55:39PM</cmt>
+    <desc>12-MAY-15 4:55:39PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.491641700267792" lon="-108.9367722440511">
+    <ele>1618.9736328125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M 11m2</name>
+    <cmt>17-MAY-15 11:49:08AM</cmt>
+    <desc>17-MAY-15 11:49:08AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.486820094287395" lon="-108.94704560749233">
+    <ele>1635.796630859375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M 2m21</name>
+    <cmt>16-MAY-15 12:49:56PM</cmt>
+    <desc>16-MAY-15 12:49:56PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.512593859806657" lon="-109.00039189495146">
+    <ele>1669.682861328125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M 3m21</name>
+    <cmt>17-MAY-15 2:44:26PM</cmt>
+    <desc>17-MAY-15 2:44:26PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.512245759367943" lon="-109.0011948812753">
+    <ele>1672.086181640625</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M 5m2</name>
+    <cmt>17-MAY-15 2:48:47PM</cmt>
+    <desc>17-MAY-15 2:48:47PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.491613201797009" lon="-108.93681624904275">
+    <ele>1619.934814453125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M 8m2</name>
+    <cmt>17-MAY-15 11:47:22AM</cmt>
+    <desc>17-MAY-15 11:47:22AM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.509310668334365" lon="-109.00698635727167">
+    <ele>1683.862060546875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M10 6m2</name>
+    <cmt>17-MAY-15 3:11:34PM</cmt>
+    <desc>17-MAY-15 3:11:34PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.508600972592831" lon="-109.00718023069203">
+    <ele>1684.343017578125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M11 6m2</name>
+    <cmt>17-MAY-15 3:15:31PM</cmt>
+    <desc>17-MAY-15 3:15:31PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.508169053122401" lon="-109.00884328410029">
+    <ele>1685.06396484375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M12 3m2</name>
+    <cmt>17-MAY-15 3:27:39PM</cmt>
+    <desc>17-MAY-15 3:27:39PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.508091185241938" lon="-109.00930856354535">
+    <ele>1686.025146484375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M13 6m2</name>
+    <cmt>17-MAY-15 3:31:57PM</cmt>
+    <desc>17-MAY-15 3:31:57PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.507984483614564" lon="-109.00961542502046">
+    <ele>1685.784912109375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M14 3m2</name>
+    <cmt>17-MAY-15 3:34:06PM</cmt>
+    <desc>17-MAY-15 3:34:06PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.506304414942861" lon="-109.01001633144915">
+    <ele>1688.428466796875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M14 8m2</name>
+    <cmt>17-MAY-15 3:43:05PM</cmt>
+    <desc>17-MAY-15 3:43:05PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.505101108923554" lon="-109.01143563911319">
+    <ele>1693.235107421875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M15 3m2</name>
+    <cmt>17-MAY-15 3:52:42PM</cmt>
+    <desc>17-MAY-15 3:52:42PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.505773086100817" lon="-109.01296122930944">
+    <ele>1696.599609375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M16 4m2</name>
+    <cmt>17-MAY-15 3:59:16PM</cmt>
+    <desc>17-MAY-15 3:59:16PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.503953207284212" lon="-109.01611148379743">
+    <ele>1710.057861328125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M17 1m2</name>
+    <cmt>17-MAY-15 4:34:15PM</cmt>
+    <desc>17-MAY-15 4:34:15PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.505832597613335" lon="-109.01305569335818">
+    <ele>1695.878662109375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M17 6m2</name>
+    <cmt>17-MAY-15 4:01:10PM</cmt>
+    <desc>17-MAY-15 4:01:10PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.506149265915155" lon="-109.01315971277654">
+    <ele>1698.28173828125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M18 2m2</name>
+    <cmt>17-MAY-15 4:03:13PM</cmt>
+    <desc>17-MAY-15 4:03:13PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.503920182585716" lon="-109.01627602055669">
+    <ele>1709.5771484375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M19 2m2</name>
+    <cmt>17-MAY-15 4:35:45PM</cmt>
+    <desc>17-MAY-15 4:35:45PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.488978434354067" lon="-108.94505205564201">
+    <ele>1630.26904296875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M2 2m2</name>
+    <cmt>16-MAY-15 1:18:07PM</cmt>
+    <desc>16-MAY-15 1:18:07PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.50313513353467" lon="-109.01738653890789">
+    <ele>1711.98046875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M20 2m2</name>
+    <cmt>17-MAY-15 4:45:09PM</cmt>
+    <desc>17-MAY-15 4:45:09PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.520676696673036" lon="-109.0122758410871">
+    <ele>1687.46728515625</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M21 4m2</name>
+    <cmt>18-MAY-15 12:37:16PM</cmt>
+    <desc>18-MAY-15 12:37:16PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.521204002201557" lon="-109.01279585435987">
+    <ele>1688.428466796875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M22 2m2</name>
+    <cmt>18-MAY-15 12:40:45PM</cmt>
+    <desc>18-MAY-15 12:40:45PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.521276170387864" lon="-109.01327286846936">
+    <ele>1686.505859375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M23 2m2</name>
+    <cmt>18-MAY-15 12:44:18PM</cmt>
+    <desc>18-MAY-15 12:44:18PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.521257562562823" lon="-109.01322341524065">
+    <ele>1688.428466796875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M24 2m2</name>
+    <cmt>18-MAY-15 12:48:49PM</cmt>
+    <desc>18-MAY-15 12:48:49PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.519235596060753" lon="-109.00754953734577">
+    <ele>1681.218505859375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M24 4m2</name>
+    <cmt>18-MAY-15 12:58:34PM</cmt>
+    <desc>18-MAY-15 12:58:34PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.519131828099489" lon="-109.00513990782201">
+    <ele>1679.055419921875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M25 1m2</name>
+    <cmt>18-MAY-15 1:35:34PM</cmt>
+    <desc>18-MAY-15 1:35:34PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.515607740730047" lon="-108.99212440475821">
+    <ele>1673.04736328125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M26 1m2</name>
+    <cmt>18-MAY-15 2:15:58PM</cmt>
+    <desc>18-MAY-15 2:15:58PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.515462985262275" lon="-108.99216153658926">
+    <ele>1673.287841796875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M26 3m2</name>
+    <cmt>18-MAY-15 2:16:58PM</cmt>
+    <desc>18-MAY-15 2:16:58PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.4891217648983" lon="-108.94496354274452">
+    <ele>1628.8271484375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M3 2m2</name>
+    <cmt>16-MAY-15 1:20:38PM</cmt>
+    <desc>16-MAY-15 1:20:38PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.470584012567997" lon="-109.01230266317725">
+    <ele>1697.080322265625</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>M4m2</name>
+    <cmt>12-MAY-15 3:07:21PM</cmt>
+    <desc>12-MAY-15 3:07:21PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.491949902847409" lon="-108.94353744573891">
+    <ele>1627.14501953125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M5 2m2</name>
+    <cmt>17-MAY-15 12:31:13PM</cmt>
+    <desc>17-MAY-15 12:31:13PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.509950794279575" lon="-109.00619401596487">
+    <ele>1680.73779296875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M7 2m2</name>
+    <cmt>17-MAY-15 3:05:19PM</cmt>
+    <desc>17-MAY-15 3:05:19PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.509886169806123" lon="-109.00638671591878">
+    <ele>1680.73779296875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>M9 2m2</name>
+    <cmt>17-MAY-15 3:07:04PM</cmt>
+    <desc>17-MAY-15 3:07:04PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.445229342207313" lon="-111.25638750381768">
+    <ele>1305.82666015625</ele>
+    <time>2015-05-16T13:08:11Z</time>
+    <name>Margarita Tank</name>
+    <cmt>14-MAY-15 1:12:50PM</cmt>
+    <desc>14-MAY-15 1:12:50PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-16T13:08:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.472777556627989" lon="-109.01297086849809">
+    <ele>1697.080322265625</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>PC2S1M</name>
+    <cmt>12-MAY-15 3:33:49PM</cmt>
+    <desc>12-MAY-15 3:33:49PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.47025384940207" lon="-109.01191793382168">
+    <ele>1696.359375</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>PC2S2M</name>
+    <cmt>12-MAY-15 3:00:32PM</cmt>
+    <desc>12-MAY-15 3:00:32PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.478089755401015" lon="-109.01580361649394">
+    <ele>1720.15185546875</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>S</name>
+    <cmt>12-MAY-15 5:07:11PM</cmt>
+    <desc>12-MAY-15 5:07:11PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.470950888469815" lon="-109.01242906227708">
+    <ele>1694.1962890625</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>S 2m2</name>
+    <cmt>12-MAY-15 3:24:39PM</cmt>
+    <desc>12-MAY-15 3:24:39PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.477200435474515" lon="-109.01328887790442">
+    <ele>1707.414306640625</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>S01</name>
+    <cmt>12-MAY-15 4:33:05PM</cmt>
+    <desc>12-MAY-15 4:33:05PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.477601593360305" lon="-109.01429051533341">
+    <ele>1714.143310546875</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>S03</name>
+    <cmt>12-MAY-15 4:54:19PM</cmt>
+    <desc>12-MAY-15 4:54:19PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.520838048309088" lon="-109.01233300566673">
+    <ele>1684.1025390625</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S104</name>
+    <cmt>18-MAY-15 12:38:54PM</cmt>
+    <desc>18-MAY-15 12:38:54PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.499245259910822" lon="-109.01908990927041">
+    <ele>1720.15185546875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S112</name>
+    <cmt>17-MAY-15 4:58:10PM</cmt>
+    <desc>17-MAY-15 4:58:10PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.519242133945227" lon="-109.00755699723959">
+    <ele>1681.458740234375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S121</name>
+    <cmt>18-MAY-15 1:00:17PM</cmt>
+    <desc>18-MAY-15 1:00:17PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.486806431785226" lon="-108.94707603380084">
+    <ele>1635.796630859375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S14</name>
+    <cmt>16-MAY-15 12:49:17PM</cmt>
+    <desc>16-MAY-15 12:49:17PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.511703450232744" lon="-109.00316253304482">
+    <ele>1675.931396484375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S22</name>
+    <cmt>17-MAY-15 2:57:28PM</cmt>
+    <desc>17-MAY-15 2:57:28PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.509891366586089" lon="-109.00620566681027">
+    <ele>1681.218505859375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S32</name>
+    <cmt>17-MAY-15 3:06:09PM</cmt>
+    <desc>17-MAY-15 3:06:09PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.509345034137368" lon="-109.0070472098887">
+    <ele>1683.14111328125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S42</name>
+    <cmt>17-MAY-15 3:10:59PM</cmt>
+    <desc>17-MAY-15 3:10:59PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.509203715249896" lon="-109.00699867866933">
+    <ele>1684.343017578125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S52</name>
+    <cmt>17-MAY-15 3:12:57PM</cmt>
+    <desc>17-MAY-15 3:12:57PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.508355885744095" lon="-109.00830977596343">
+    <ele>1684.583251953125</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S61</name>
+    <cmt>17-MAY-15 3:25:49PM</cmt>
+    <desc>17-MAY-15 3:25:49PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.504169460386038" lon="-109.01559691876173">
+    <ele>1709.096435546875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S82</name>
+    <cmt>17-MAY-15 4:32:36PM</cmt>
+    <desc>17-MAY-15 4:32:36PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.503188945353031" lon="-109.01735284365714">
+    <ele>1711.740234375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>S92</name>
+    <cmt>17-MAY-15 4:44:08PM</cmt>
+    <desc>17-MAY-15 4:44:08PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.500775711610913" lon="-109.01806362904608">
+    <ele>1717.267822265625</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>Sedge?</name>
+    <cmt>17-MAY-15 5:08:30PM</cmt>
+    <desc>17-MAY-15 5:08:30PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.515790382400155" lon="-108.98738301359117">
+    <ele>1666.077880859375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>STOP NOODLE</name>
+    <cmt>18-MAY-15 2:37:33PM</cmt>
+    <desc>18-MAY-15 2:37:33PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.503824880346656" lon="-109.01668480597436">
+    <ele>1709.096435546875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>T1008</name>
+    <cmt>17-MAY-15 5:27:59PM</cmt>
+    <desc>17-MAY-15 5:27:59PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.503814402967691" lon="-109.01669913902879">
+    <ele>1709.096435546875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>T1176</name>
+    <cmt>17-MAY-15 5:27:39PM</cmt>
+    <desc>17-MAY-15 5:27:39PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.473729824647307" lon="-109.01323741301894">
+    <ele>1701.88671875</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T1194 M</name>
+    <cmt>12-MAY-15 3:40:40PM</cmt>
+    <desc>12-MAY-15 3:40:40PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.474715201184154" lon="-109.01324881240726">
+    <ele>1702.126953125</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T1270 M</name>
+    <cmt>12-MAY-15 3:52:47PM</cmt>
+    <desc>12-MAY-15 3:52:47PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.477613160386682" lon="-109.01703215204179">
+    <ele>1724.4775390625</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T1310 M</name>
+    <cmt>12-MAY-15 5:19:43PM</cmt>
+    <desc>12-MAY-15 5:19:43PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.469911700114608" lon="-109.01141820475459">
+    <ele>1696.359375</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T1347 M</name>
+    <cmt>12-MAY-15 2:51:34PM</cmt>
+    <desc>12-MAY-15 2:51:34PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.474699946120381" lon="-109.01323917321861">
+    <ele>1700.44482421875</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T1350</name>
+    <cmt>12-MAY-15 4:15:16PM</cmt>
+    <desc>12-MAY-15 4:15:16PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.477428507059813" lon="-109.01359967887402">
+    <ele>1710.057861328125</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T1360</name>
+    <cmt>12-MAY-15 4:40:43PM</cmt>
+    <desc>12-MAY-15 4:40:43PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.471034456044436" lon="-109.01243509724736">
+    <ele>1698.28173828125</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T1380 L</name>
+    <cmt>12-MAY-15 3:23:19PM</cmt>
+    <desc>12-MAY-15 3:23:19PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.471068570390344" lon="-109.01246166788042">
+    <ele>1696.359375</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T1381</name>
+    <cmt>12-MAY-15 3:23:59PM</cmt>
+    <desc>12-MAY-15 3:23:59PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.485737739130855" lon="-108.94744106568396">
+    <ele>1638.199951171875</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>T2238</name>
+    <cmt>16-MAY-15 12:28:23PM</cmt>
+    <desc>16-MAY-15 12:28:23PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.485741343349218" lon="-108.94742866046727">
+    <ele>1635.796630859375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>T2260</name>
+    <cmt>16-MAY-15 12:27:42PM</cmt>
+    <desc>16-MAY-15 12:27:42PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.488104201853275" lon="-108.94550945609808">
+    <ele>1633.8740234375</ele>
+    <time>2015-05-27T16:28:26Z</time>
+    <name>T2289 DEAD</name>
+    <cmt>16-MAY-15 1:12:42PM</cmt>
+    <desc>16-MAY-15 1:12:42PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-27T16:28:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.469499645754695" lon="-109.01111000217497">
+    <ele>1695.63818359375</ele>
+    <time>2015-05-13T02:44:07Z</time>
+    <name>T3114 M</name>
+    <cmt>12-MAY-15 2:32:48PM</cmt>
+    <desc>12-MAY-15 2:32:48PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-13T02:44:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="31.444813348352909" lon="-111.25638532452285">
+    <ele>1307.509033203125</ele>
+    <time>2015-05-16T13:08:11Z</time>
+    <name>Unmarkdeadt</name>
+    <cmt>14-MAY-15 2:00:12PM</cmt>
+    <desc>14-MAY-15 2:00:12PM</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2015-05-16T13:08:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>ACTIVE LOG</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="35.674309534952044" lon="-97.472660383209586">
+        <ele>399.5650634765625</ele>
+        <time>2015-04-27T15:42:55Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>ACTIVE LOG 001 001</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="35.674309534952044" lon="-97.472660383209586">
+        <ele>399.5650634765625</ele>
+        <time>2015-04-27T15:43:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>ACTIVE LOG 002 001</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="35.674309534952044" lon="-97.472660383209586">
+        <ele>399.5650634765625</ele>
+        <time>2015-04-27T15:43:02Z</time>
+      </trkpt>
+      <trkpt lat="35.674309534952044" lon="-97.472660383209586">
+        <ele>399.5650634765625</ele>
+        <time>2015-04-27T15:44:34Z</time>
+      </trkpt>
+      <trkpt lat="35.674309534952044" lon="-97.472660383209586">
+        <ele>399.0843505859375</ele>
+        <time>2015-04-27T15:45:08Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>ACTIVE LOG 003 003</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="31.445317016914487" lon="-111.25654248520732">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:16:04Z</time>
+      </trkpt>
+      <trkpt lat="31.445317016914487" lon="-111.25654307194054">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:16:05Z</time>
+      </trkpt>
+      <trkpt lat="31.445317100733519" lon="-111.25654357485473">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:16:06Z</time>
+      </trkpt>
+      <trkpt lat="31.445316094905138" lon="-111.25662102364004">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:16:21Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>ACTIVE LOG 004 003</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="31.444908734411001" lon="-111.25639731064439">
+        <ele>1308.01123046875</ele>
+        <time>2015-05-14T19:20:57Z</time>
+      </trkpt>
+      <trkpt lat="31.444913260638714" lon="-111.25640586018562">
+        <ele>1306.56884765625</ele>
+        <time>2015-05-14T19:21:25Z</time>
+      </trkpt>
+      <trkpt lat="31.444900687783957" lon="-111.25643083825707">
+        <ele>1307.5302734375</ele>
+        <time>2015-05-14T19:21:33Z</time>
+      </trkpt>
+      <trkpt lat="31.444870345294476" lon="-111.25642103143036">
+        <ele>1306.56884765625</ele>
+        <time>2015-05-14T19:21:41Z</time>
+      </trkpt>
+      <trkpt lat="31.444844109937549" lon="-111.25640854239464">
+        <ele>1305.126953125</ele>
+        <time>2015-05-14T19:21:50Z</time>
+      </trkpt>
+      <trkpt lat="31.444812342524529" lon="-111.25639068894088">
+        <ele>1304.646240234375</ele>
+        <time>2015-05-14T19:21:59Z</time>
+      </trkpt>
+      <trkpt lat="31.444800607860088" lon="-111.25639948993921">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:22:21Z</time>
+      </trkpt>
+      <trkpt lat="31.444800943136215" lon="-111.25640091486275">
+        <ele>1305.126953125</ele>
+        <time>2015-05-14T19:22:25Z</time>
+      </trkpt>
+      <trkpt lat="31.444801110774279" lon="-111.25640233978629">
+        <ele>1303.68505859375</ele>
+        <time>2015-05-14T19:22:28Z</time>
+      </trkpt>
+      <trkpt lat="31.444801278412342" lon="-111.25640317797661">
+        <ele>1305.126953125</ele>
+        <time>2015-05-14T19:22:30Z</time>
+      </trkpt>
+      <trkpt lat="31.444784011691809" lon="-111.25639529898763">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:22:44Z</time>
+      </trkpt>
+      <trkpt lat="31.444756770506501" lon="-111.25637300312519">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:22:53Z</time>
+      </trkpt>
+      <trkpt lat="31.444750316441059" lon="-111.25635808333755">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:23:04Z</time>
+      </trkpt>
+      <trkpt lat="31.444740258157253" lon="-111.25635867007077">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:23:16Z</time>
+      </trkpt>
+      <trkpt lat="31.444716118276119" lon="-111.25636043027043">
+        <ele>1305.126953125</ele>
+        <time>2015-05-14T19:23:25Z</time>
+      </trkpt>
+      <trkpt lat="31.444698935374618" lon="-111.25637845136225">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:23:34Z</time>
+      </trkpt>
+      <trkpt lat="31.44468636251986" lon="-111.25638959929347">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:23:42Z</time>
+      </trkpt>
+      <trkpt lat="31.444679321721196" lon="-111.25639094039798">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:23:59Z</time>
+      </trkpt>
+      <trkpt lat="31.444669766351581" lon="-111.25638716854155">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:24:06Z</time>
+      </trkpt>
+      <trkpt lat="31.444656858220696" lon="-111.25639781355858">
+        <ele>1306.56884765625</ele>
+        <time>2015-05-14T19:24:13Z</time>
+      </trkpt>
+      <trkpt lat="31.444645626470447" lon="-111.25642639584839">
+        <ele>1307.049560546875</ele>
+        <time>2015-05-14T19:24:17Z</time>
+      </trkpt>
+      <trkpt lat="31.444619055837393" lon="-111.25650719739497">
+        <ele>1307.049560546875</ele>
+        <time>2015-05-14T19:24:26Z</time>
+      </trkpt>
+      <trkpt lat="31.444617127999663" lon="-111.25656737945974">
+        <ele>1306.56884765625</ele>
+        <time>2015-05-14T19:24:35Z</time>
+      </trkpt>
+      <trkpt lat="31.444630287587643" lon="-111.25659856013954">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:24:43Z</time>
+      </trkpt>
+      <trkpt lat="31.444693319499493" lon="-111.25662622042">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:24:53Z</time>
+      </trkpt>
+      <trkpt lat="31.4447205606848" lon="-111.25663275830448">
+        <ele>1306.56884765625</ele>
+        <time>2015-05-14T19:24:58Z</time>
+      </trkpt>
+      <trkpt lat="31.444773450493813" lon="-111.25664516352117">
+        <ele>1306.56884765625</ele>
+        <time>2015-05-14T19:25:06Z</time>
+      </trkpt>
+      <trkpt lat="31.444816701114178" lon="-111.25666712410748">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:25:14Z</time>
+      </trkpt>
+      <trkpt lat="31.444841930642724" lon="-111.25668036751449">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:25:22Z</time>
+      </trkpt>
+      <trkpt lat="31.444854838773608" lon="-111.25669243745506">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:25:29Z</time>
+      </trkpt>
+      <trkpt lat="31.444870261475444" lon="-111.25671506859362">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:25:36Z</time>
+      </trkpt>
+      <trkpt lat="31.444882918149233" lon="-111.25673434697092">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:25:44Z</time>
+      </trkpt>
+      <trkpt lat="31.444902280345559" lon="-111.25679268501699">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:25:54Z</time>
+      </trkpt>
+      <trkpt lat="31.444916529580951" lon="-111.25683291815221">
+        <ele>1305.126953125</ele>
+        <time>2015-05-14T19:26:03Z</time>
+      </trkpt>
+      <trkpt lat="31.444931197911501" lon="-111.25686250627041">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:26:11Z</time>
+      </trkpt>
+      <trkpt lat="31.44494628533721" lon="-111.25688220374286">
+        <ele>1308.49169921875</ele>
+        <time>2015-05-14T19:26:16Z</time>
+      </trkpt>
+      <trkpt lat="31.444954080507159" lon="-111.2569232750684">
+        <ele>1307.049560546875</ele>
+        <time>2015-05-14T19:26:26Z</time>
+      </trkpt>
+      <trkpt lat="31.444954918697476" lon="-111.25692863948643">
+        <ele>1304.646240234375</ele>
+        <time>2015-05-14T19:26:31Z</time>
+      </trkpt>
+      <trkpt lat="31.444954415783286" lon="-111.25694657675922">
+        <ele>1306.56884765625</ele>
+        <time>2015-05-14T19:26:35Z</time>
+      </trkpt>
+      <trkpt lat="31.444958606734872" lon="-111.25696971081197">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:26:42Z</time>
+      </trkpt>
+      <trkpt lat="31.44495802000165" lon="-111.25696904025972">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:26:43Z</time>
+      </trkpt>
+      <trkpt lat="31.444946955889463" lon="-111.25697758980095">
+        <ele>1303.68505859375</ele>
+        <time>2015-05-14T19:26:52Z</time>
+      </trkpt>
+      <trkpt lat="31.444945698603988" lon="-111.2569732312113">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:27:00Z</time>
+      </trkpt>
+      <trkpt lat="31.444949805736542" lon="-111.25697331503034">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:27:13Z</time>
+      </trkpt>
+      <trkpt lat="31.444948883727193" lon="-111.2569718901068">
+        <ele>1307.049560546875</ele>
+        <time>2015-05-14T19:27:15Z</time>
+      </trkpt>
+      <trkpt lat="31.444952320307493" lon="-111.25697482377291">
+        <ele>1304.646240234375</ele>
+        <time>2015-05-14T19:27:19Z</time>
+      </trkpt>
+      <trkpt lat="31.444934802129865" lon="-111.25697490759194">
+        <ele>1302.7236328125</ele>
+        <time>2015-05-14T19:28:17Z</time>
+      </trkpt>
+      <trkpt lat="31.444942010566592" lon="-111.25701899640262">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:28:24Z</time>
+      </trkpt>
+      <trkpt lat="31.444947123527527" lon="-111.25704581849277">
+        <ele>1302.7236328125</ele>
+        <time>2015-05-14T19:28:28Z</time>
+      </trkpt>
+      <trkpt lat="31.444966737180948" lon="-111.2570823635906">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:28:35Z</time>
+      </trkpt>
+      <trkpt lat="31.445011161267757" lon="-111.25707532279193">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:28:46Z</time>
+      </trkpt>
+      <trkpt lat="31.445048209279776" lon="-111.2570427171886">
+        <ele>1302.7236328125</ele>
+        <time>2015-05-14T19:28:56Z</time>
+      </trkpt>
+      <trkpt lat="31.445061536505818" lon="-111.25702913850546">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:28:59Z</time>
+      </trkpt>
+      <trkpt lat="31.445070505142212" lon="-111.25702570192516">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:29:00Z</time>
+      </trkpt>
+      <trkpt lat="31.445099171251059" lon="-111.25703282654285">
+        <ele>1303.68505859375</ele>
+        <time>2015-05-14T19:29:04Z</time>
+      </trkpt>
+      <trkpt lat="31.44516178406775" lon="-111.25706828199327">
+        <ele>1307.049560546875</ele>
+        <time>2015-05-14T19:29:14Z</time>
+      </trkpt>
+      <trkpt lat="31.445168657228351" lon="-111.25707188621163">
+        <ele>1307.049560546875</ele>
+        <time>2015-05-14T19:29:15Z</time>
+      </trkpt>
+      <trkpt lat="31.445181397721171" lon="-111.25708655454218">
+        <ele>1303.204345703125</ele>
+        <time>2015-05-14T19:29:18Z</time>
+      </trkpt>
+      <trkpt lat="31.445184163749218" lon="-111.25709116458893">
+        <ele>1303.204345703125</ele>
+        <time>2015-05-14T19:29:19Z</time>
+      </trkpt>
+      <trkpt lat="31.445213332772255" lon="-111.25715050846338">
+        <ele>1303.204345703125</ele>
+        <time>2015-05-14T19:29:28Z</time>
+      </trkpt>
+      <trkpt lat="31.445256834849715" lon="-111.25717657618225">
+        <ele>1302.7236328125</ele>
+        <time>2015-05-14T19:29:36Z</time>
+      </trkpt>
+      <trkpt lat="31.445272509008646" lon="-111.2571325711906">
+        <ele>1303.68505859375</ele>
+        <time>2015-05-14T19:29:41Z</time>
+      </trkpt>
+      <trkpt lat="31.445290865376592" lon="-111.25708906911314">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:29:51Z</time>
+      </trkpt>
+      <trkpt lat="31.445265635848045" lon="-111.25704120844603">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:29:59Z</time>
+      </trkpt>
+      <trkpt lat="31.445251889526844" lon="-111.25702586956322">
+        <ele>1304.646240234375</ele>
+        <time>2015-05-14T19:30:09Z</time>
+      </trkpt>
+      <trkpt lat="31.445241244509816" lon="-111.25697499141097">
+        <ele>1304.646240234375</ele>
+        <time>2015-05-14T19:30:16Z</time>
+      </trkpt>
+      <trkpt lat="31.445257924497128" lon="-111.25692646019161">
+        <ele>1302.242919921875</ele>
+        <time>2015-05-14T19:30:24Z</time>
+      </trkpt>
+      <trkpt lat="31.445297067984939" lon="-111.25689955428243">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:30:31Z</time>
+      </trkpt>
+      <trkpt lat="31.445306707173586" lon="-111.25690114684403">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:30:32Z</time>
+      </trkpt>
+      <trkpt lat="31.445324392989278" lon="-111.25689905136824">
+        <ele>1303.68505859375</ele>
+        <time>2015-05-14T19:30:34Z</time>
+      </trkpt>
+      <trkpt lat="31.445361860096455" lon="-111.25685999169946">
+        <ele>1302.7236328125</ele>
+        <time>2015-05-14T19:30:42Z</time>
+      </trkpt>
+      <trkpt lat="31.445376947522163" lon="-111.2568077724427">
+        <ele>1303.68505859375</ele>
+        <time>2015-05-14T19:30:49Z</time>
+      </trkpt>
+      <trkpt lat="31.445367056876421" lon="-111.25678841024637">
+        <ele>1303.204345703125</ele>
+        <time>2015-05-14T19:30:51Z</time>
+      </trkpt>
+      <trkpt lat="31.445320202037692" lon="-111.25669118016958">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:31:01Z</time>
+      </trkpt>
+      <trkpt lat="31.445283740758896" lon="-111.25660124234855">
+        <ele>1303.68505859375</ele>
+        <time>2015-05-14T19:31:10Z</time>
+      </trkpt>
+      <trkpt lat="31.445252140983939" lon="-111.25651021488011">
+        <ele>1304.165771484375</ele>
+        <time>2015-05-14T19:31:19Z</time>
+      </trkpt>
+      <trkpt lat="31.445255074650049" lon="-111.2564573250711">
+        <ele>1303.204345703125</ele>
+        <time>2015-05-14T19:31:24Z</time>
+      </trkpt>
+      <trkpt lat="31.445202855393291" lon="-111.25637493096292">
+        <ele>1305.126953125</ele>
+        <time>2015-05-14T19:31:34Z</time>
+      </trkpt>
+      <trkpt lat="31.445133117958903" lon="-111.25640359707177">
+        <ele>1304.646240234375</ele>
+        <time>2015-05-14T19:31:43Z</time>
+      </trkpt>
+      <trkpt lat="31.445060530677438" lon="-111.25643268227577">
+        <ele>1304.646240234375</ele>
+        <time>2015-05-14T19:31:53Z</time>
+      </trkpt>
+      <trkpt lat="31.444995822384953" lon="-111.25645849853754">
+        <ele>1305.126953125</ele>
+        <time>2015-05-14T19:32:03Z</time>
+      </trkpt>
+      <trkpt lat="31.444982830435038" lon="-111.25647115521133">
+        <ele>1304.646240234375</ele>
+        <time>2015-05-14T19:32:11Z</time>
+      </trkpt>
+      <trkpt lat="31.444960283115506" lon="-111.25646176747978">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:32:19Z</time>
+      </trkpt>
+      <trkpt lat="31.444919630885124" lon="-111.25642606057227">
+        <ele>1305.126953125</ele>
+        <time>2015-05-14T19:32:28Z</time>
+      </trkpt>
+      <trkpt lat="31.444924073293805" lon="-111.25639613717794">
+        <ele>1305.607666015625</ele>
+        <time>2015-05-14T19:32:35Z</time>
+      </trkpt>
+      <trkpt lat="31.444931784644723" lon="-111.25637954100966">
+        <ele>1306.56884765625</ele>
+        <time>2015-05-14T19:32:42Z</time>
+      </trkpt>
+      <trkpt lat="31.444931784644723" lon="-111.2563844025135">
+        <ele>1306.088134765625</ele>
+        <time>2015-05-14T19:32:55Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

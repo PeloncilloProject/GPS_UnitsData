@@ -1,0 +1,981 @@
+Grid	Lat/Lon hddd.ddddd°
+Datum	WGS 84
+
+Header	Name	Description	Type	Position	Altitude	Depth	Proximity	Temperature	Display Mode	Color	Symbol	Facility	City	State	Country	Date Modified	Link	Categories
+
+Waypoint	#102.2	18-MAY-13 12:41:13PM	User Waypoint	N31.46942 W109.01105	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	#1127	18-MAY-13 11:07:59AM	User Waypoint	N31.48055 W109.01752	1736 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	#1148	18-MAY-13 1:08:08PM	User Waypoint	N31.46974 W109.01126	1694 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	#1152	18-MAY-13 12:59:43PM	User Waypoint	N31.46943 W109.01103	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	#1193	18-MAY-13 12:38:20PM	User Waypoint	N31.46938 W109.01113	1696 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	#3111	18-MAY-13 12:50:18PM	User Waypoint	N31.46943 W109.01106	1694 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	001	18-MAY-13 3:23:48PM	User Waypoint	N31.48487 W109.02492	1808 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	002	18-MAY-13 3:23:52PM	User Waypoint	N31.48488 W109.02491	1807 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	003	18-MAY-13 3:23:54PM	User Waypoint	N31.48489 W109.02491	1807 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	004	18-MAY-13 3:23:57PM	User Waypoint	N31.48490 W109.02490	1807 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	005	18-MAY-13 3:24:03PM	User Waypoint	N31.48492 W109.02489	1806 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	006	18-MAY-13 3:24:12PM	User Waypoint	N31.48500 W109.02488	1807 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	007	18-MAY-13 3:24:15PM	User Waypoint	N31.48502 W109.02488	1807 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	008	18-MAY-13 3:24:17PM	User Waypoint	N31.48961 W109.02412	1819 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	009	20-MAY-13 11:03:19AM	User Waypoint	N31.49805 W109.02054	1733 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	010	20-MAY-13 11:04:13AM	User Waypoint	N31.49802 W109.02057	1733 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	011	20-MAY-13 11:14:56AM	User Waypoint	N31.50045 W109.01835	1722 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	012	20-MAY-13 11:16:51AM	User Waypoint	N31.50150 W109.01740	1720 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	013	20-MAY-13 11:16:53AM	User Waypoint	N31.50152 W109.01741	1720 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	014	20-MAY-13 11:17:40AM	User Waypoint	N31.50199 W109.01765	1718 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	015	20-MAY-13 11:18:45AM	User Waypoint	N31.50269 W109.01745	1717 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	016	20-MAY-13 11:19:50AM	User Waypoint	N31.50340 W109.01713	1715 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	017	20-MAY-13 11:20:03AM	User Waypoint	N31.50354 W109.01712	1714 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	018	20-MAY-13 11:20:15AM	User Waypoint	N31.50355 W109.01711	1714 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	019	20-MAY-13 11:20:46AM	User Waypoint	N31.50381 W109.01679	1713 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	020	20-MAY-13 11:20:50AM	User Waypoint	N31.50385 W109.01677	1713 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	021	20-MAY-13 11:20:54AM	User Waypoint	N31.50388 W109.01674	1713 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	022	20-MAY-13 11:20:59AM	User Waypoint	N31.50393 W109.01670	1713 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	023	20-MAY-13 11:21:05AM	User Waypoint	N31.50398 W109.01665	1713 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	024	20-MAY-13 11:21:53AM	User Waypoint	N31.50404 W109.01602	1709 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	025	27-MAY-13 2:15:38PM	User Waypoint	N31.52637 W108.97717	1642 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Coachwhip ?	18-MAY-13 1:13:10PM	User Waypoint	N31.47006 W109.01169	1696 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	L 1	18-MAY-13 12:13:27PM	User Waypoint	N31.46894 W109.01032	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	L 2	18-MAY-13 12:19:47PM	User Waypoint	N31.46897 W109.01086	1694 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	L 3	18-MAY-13 12:21:34PM	User Waypoint	N31.46929 W109.01096	1694 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	L 4	18-MAY-13 12:23:47PM	User Waypoint	N31.46940 W109.01104	1694 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	L 5	18-MAY-13 1:03:49PM	User Waypoint	N31.46972 W109.01126	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	L 8	18-MAY-13 1:09:43PM	User Waypoint	N31.46990 W109.01140	1694 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	L 9	18-MAY-13 1:41:34PM	User Waypoint	N31.47748 W109.01414	1716 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Med 1	18-MAY-13 9:03:29AM	User Waypoint	N31.49814 W109.02033	1665 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Med 2	18-MAY-13 11:07:39AM	User Waypoint	N31.48055 W109.01752	1736 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Med 3	18-MAY-13 12:20:43PM	User Waypoint	N31.46906 W109.01096	1696 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Med 7	18-MAY-13 1:09:17PM	User Waypoint	N31.46991 W109.01140	1693 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Med 8	18-MAY-13 1:24:26PM	User Waypoint	N31.47270 W109.01294	1703 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 1	18-MAY-13 12:11:13PM	User Waypoint	N31.46906 W109.01076	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 2	18-MAY-13 12:11:48PM	User Waypoint	N31.46906 W109.01063	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 3	18-MAY-13 12:12:02PM	User Waypoint	N31.46906 W109.01058	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 4	18-MAY-13 12:12:29PM	User Waypoint	N31.46902 W109.01042	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 5	18-MAY-13 12:12:58PM	User Waypoint	N31.46900 W109.01040	1697 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 6	18-MAY-13 12:20:11PM	User Waypoint	N31.46894 W109.01093	1696 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 7	18-MAY-13 12:23:08PM	User Waypoint	N31.46940 W109.01103	1694 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 8	18-MAY-13 1:10:27PM	User Waypoint	N31.46999 W109.01156	1696 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Sm 9	18-MAY-13 1:18:47PM	User Waypoint	N31.47016 W109.01200	1695 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Stop	18-MAY-13 12:15:00PM	User Waypoint	N31.46888 W109.01007	1694 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Whit/salt y		User Waypoint	N31.54068 W109.00356					Symbol & Name	Black	Flag, Blue							
+
+
+Header	Name	Start Time	Elapsed Time	Length	Average Speed	Link
+
+Track	ACTIVE LOG	10/15/2010 11:16:51 AM 	0:00:10	0 m	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N35.65510 W97.47208	10/15/2010 11:16:51 AM 	308 m
+Trackpoint	N35.65510 W97.47208	10/15/2010 11:17:01 AM 	308 m			0 m	0:00:10	0 kph	0° true
+
+Track	ACTIVE LOG 001	6/29/2011 1:32:18 PM 	1:22:17	83.3 km	61 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N35.65440 W97.47369	6/29/2011 1:32:18 PM 	359 m
+Trackpoint	N35.65440 W97.47369	6/29/2011 1:32:19 PM 	358 m			0 m	0:00:01	0.3 kph	205° true
+Trackpoint	N35.65440 W97.47369	6/29/2011 1:32:20 PM 	358 m			0 m	0:00:01	0.2 kph	208° true
+Trackpoint	N35.65448 W97.47368	6/29/2011 1:32:51 PM 	359 m			10 m	0:00:31	1.1 kph	6° true
+Trackpoint	N35.65460 W97.47388	6/29/2011 1:32:59 PM 	360 m			22 m	0:00:08	10 kph	306° true
+Trackpoint	N35.65470 W97.47425	6/29/2011 1:33:05 PM 	360 m			35 m	0:00:06	21 kph	289° true
+Trackpoint	N35.65473 W97.47486	6/29/2011 1:33:16 PM 	361 m			55 m	0:00:11	18 kph	274° true
+Trackpoint	N35.65474 W97.47492	6/29/2011 1:33:26 PM 	362 m			6 m	0:00:10	2 kph	271° true
+Trackpoint	N35.65447 W97.47508	6/29/2011 1:33:31 PM 	363 m			33 m	0:00:05	23 kph	206° true
+Trackpoint	N35.65346 W97.47511	6/29/2011 1:33:42 PM 	361 m			113 m	0:00:11	37 kph	181° true
+Trackpoint	N35.65296 W97.47512	6/29/2011 1:33:50 PM 	359 m			55 m	0:00:08	25 kph	181° true
+Trackpoint	N35.65295 W97.47512	6/29/2011 1:34:08 PM 	359 m			1 m	0:00:18	0.3 kph	178° true
+Trackpoint	N35.65290 W97.47514	6/29/2011 1:34:27 PM 	361 m			5 m	0:00:19	1.0 kph	194° true
+Trackpoint	N35.65285 W97.47632	6/29/2011 1:34:37 PM 	362 m			107 m	0:00:10	38 kph	267° true
+Trackpoint	N35.65287 W97.47760	6/29/2011 1:34:45 PM 	363 m			116 m	0:00:08	52 kph	271° true
+Trackpoint	N35.65307 W97.47918	6/29/2011 1:34:55 PM 	361 m			144 m	0:00:10	52 kph	279° true
+Trackpoint	N35.65338 W97.48278	6/29/2011 1:35:16 PM 	359 m			328 m	0:00:21	56 kph	276° true
+Trackpoint	N35.65329 W97.48371	6/29/2011 1:35:21 PM 	357 m			84 m	0:00:05	61 kph	263° true
+Trackpoint	N35.65313 W97.48500	6/29/2011 1:35:28 PM 	358 m			118 m	0:00:07	61 kph	261° true
+Trackpoint	N35.65298 W97.48723	6/29/2011 1:35:42 PM 	357 m			203 m	0:00:14	52 kph	265° true
+Trackpoint	N35.65294 W97.48903	6/29/2011 1:35:54 PM 	358 m			163 m	0:00:12	49 kph	268° true
+Trackpoint	N35.65296 W97.49088	6/29/2011 1:36:04 PM 	354 m			168 m	0:00:10	60 kph	271° true
+Trackpoint	N35.65301 W97.49370	6/29/2011 1:36:20 PM 	351 m			255 m	0:00:16	57 kph	271° true
+Trackpoint	N35.65303 W97.49501	6/29/2011 1:36:29 PM 	351 m			119 m	0:00:09	48 kph	271° true
+Trackpoint	N35.65302 W97.49536	6/29/2011 1:36:37 PM 	349 m			31 m	0:00:08	14 kph	267° true
+Trackpoint	N35.65300 W97.49560	6/29/2011 1:37:00 PM 	350 m			22 m	0:00:23	3 kph	266° true
+Trackpoint	N35.65302 W97.49681	6/29/2011 1:37:09 PM 	349 m			109 m	0:00:09	44 kph	271° true
+Trackpoint	N35.65301 W97.49909	6/29/2011 1:37:22 PM 	350 m			206 m	0:00:13	57 kph	270° true
+Trackpoint	N35.65303 W97.50214	6/29/2011 1:37:38 PM 	348 m			276 m	0:00:16	62 kph	270° true
+Trackpoint	N35.65304 W97.50555	6/29/2011 1:37:55 PM 	345 m			308 m	0:00:17	65 kph	270° true
+Trackpoint	N35.65303 W97.50846	6/29/2011 1:38:09 PM 	342 m			264 m	0:00:14	68 kph	270° true
+Trackpoint	N35.65302 W97.50947	6/29/2011 1:38:14 PM 	339 m			91 m	0:00:05	66 kph	270° true
+Trackpoint	N35.65302 W97.50967	6/29/2011 1:38:15 PM 	339 m			18 m	0:00:01	64 kph	268° true
+Trackpoint	N35.65304 W97.51283	6/29/2011 1:38:31 PM 	339 m			286 m	0:00:16	64 kph	270° true
+Trackpoint	N35.65303 W97.51513	6/29/2011 1:38:43 PM 	336 m			208 m	0:00:12	62 kph	270° true
+Trackpoint	N35.65301 W97.51701	6/29/2011 1:38:53 PM 	332 m			171 m	0:00:10	61 kph	270° true
+Trackpoint	N35.65302 W97.51720	6/29/2011 1:38:54 PM 	332 m			17 m	0:00:01	63 kph	271° true
+Trackpoint	N35.65304 W97.52100	6/29/2011 1:39:13 PM 	333 m			344 m	0:00:19	65 kph	271° true
+Trackpoint	N35.65306 W97.52377	6/29/2011 1:39:27 PM 	336 m			250 m	0:00:14	64 kph	270° true
+Trackpoint	N35.65305 W97.52574	6/29/2011 1:39:37 PM 	332 m			178 m	0:00:10	64 kph	270° true
+Trackpoint	N35.65305 W97.52594	6/29/2011 1:39:38 PM 	332 m			18 m	0:00:01	65 kph	270° true
+Trackpoint	N35.65306 W97.52695	6/29/2011 1:39:43 PM 	329 m			92 m	0:00:05	66 kph	270° true
+Trackpoint	N35.65305 W97.52775	6/29/2011 1:39:47 PM 	327 m			72 m	0:00:04	65 kph	270° true
+Trackpoint	N35.65307 W97.53127	6/29/2011 1:40:05 PM 	327 m			318 m	0:00:18	64 kph	270° true
+Trackpoint	N35.65307 W97.53163	6/29/2011 1:40:12 PM 	328 m			33 m	0:00:07	17 kph	271° true
+Trackpoint	N35.65308 W97.53161	6/29/2011 1:40:28 PM 	328 m			2 m	0:00:16	0.5 kph	67° true
+Trackpoint	N35.65308 W97.53184	6/29/2011 1:40:41 PM 	329 m			20 m	0:00:13	6 kph	270° true
+Trackpoint	N35.65308 W97.53283	6/29/2011 1:40:48 PM 	331 m			90 m	0:00:07	46 kph	270° true
+Trackpoint	N35.65307 W97.53355	6/29/2011 1:40:52 PM 	333 m			65 m	0:00:04	59 kph	269° true
+Trackpoint	N35.65306 W97.53469	6/29/2011 1:40:58 PM 	336 m			103 m	0:00:06	62 kph	269° true
+Trackpoint	N35.65305 W97.53489	6/29/2011 1:40:59 PM 	336 m			18 m	0:00:01	65 kph	269° true
+Trackpoint	N35.65305 W97.53669	6/29/2011 1:41:08 PM 	339 m			163 m	0:00:09	65 kph	270° true
+Trackpoint	N35.65306 W97.53770	6/29/2011 1:41:13 PM 	338 m			91 m	0:00:05	66 kph	270° true
+Trackpoint	N35.65306 W97.54197	6/29/2011 1:41:34 PM 	339 m			387 m	0:00:21	66 kph	270° true
+Trackpoint	N35.65307 W97.54259	6/29/2011 1:41:40 PM 	338 m			56 m	0:00:06	33 kph	270° true
+Trackpoint	N35.65307 W97.54293	6/29/2011 1:41:48 PM 	338 m			31 m	0:00:08	14 kph	271° true
+Trackpoint	N35.65306 W97.54389	6/29/2011 1:41:55 PM 	339 m			87 m	0:00:07	45 kph	270° true
+Trackpoint	N35.65306 W97.54599	6/29/2011 1:42:06 PM 	339 m			190 m	0:00:11	62 kph	270° true
+Trackpoint	N35.65308 W97.54865	6/29/2011 1:42:20 PM 	339 m			241 m	0:00:14	62 kph	270° true
+Trackpoint	N35.65309 W97.54928	6/29/2011 1:42:25 PM 	339 m			57 m	0:00:05	41 kph	271° true
+Trackpoint	N35.65332 W97.54960	6/29/2011 1:42:31 PM 	339 m			39 m	0:00:06	23 kph	312° true
+Trackpoint	N35.65454 W97.54961	6/29/2011 1:42:40 PM 	339 m			135 m	0:00:09	54 kph	0° true
+Trackpoint	N35.65718 W97.54962	6/29/2011 1:42:56 PM 	339 m			294 m	0:00:16	66 kph	0° true
+Trackpoint	N35.65997 W97.54963	6/29/2011 1:43:12 PM 	334 m			311 m	0:00:16	70 kph	0° true
+Trackpoint	N35.66015 W97.54963	6/29/2011 1:43:13 PM 	334 m			20 m	0:00:01	73 kph	359° true
+Trackpoint	N35.66088 W97.54963	6/29/2011 1:43:17 PM 	337 m			82 m	0:00:04	73 kph	0° true
+Trackpoint	N35.66419 W97.54966	6/29/2011 1:43:35 PM 	334 m			369 m	0:00:18	74 kph	0° true
+Trackpoint	N35.66438 W97.54966	6/29/2011 1:43:36 PM 	334 m			20 m	0:00:01	74 kph	359° true
+Trackpoint	N35.66685 W97.54966	6/29/2011 1:43:51 PM 	334 m			276 m	0:00:15	66 kph	0° true
+Trackpoint	N35.66705 W97.54966	6/29/2011 1:43:57 PM 	333 m			22 m	0:00:06	13 kph	1° true
+Trackpoint	N35.66712 W97.54965	6/29/2011 1:44:04 PM 	334 m			7 m	0:00:07	4 kph	3° true
+Trackpoint	N35.66735 W97.54965	6/29/2011 1:44:15 PM 	335 m			27 m	0:00:11	9 kph	1° true
+Trackpoint	N35.66743 W97.54966	6/29/2011 1:44:19 PM 	334 m			8 m	0:00:04	7 kph	357° true
+Trackpoint	N35.66753 W97.54980	6/29/2011 1:44:22 PM 	336 m			18 m	0:00:03	22 kph	312° true
+Trackpoint	N35.66754 W97.54991	6/29/2011 1:44:23 PM 	337 m			10 m	0:00:01	34 kph	272° true
+Trackpoint	N35.66756 W97.55143	6/29/2011 1:44:33 PM 	338 m			137 m	0:00:10	49 kph	271° true
+Trackpoint	N35.66758 W97.55457	6/29/2011 1:44:49 PM 	340 m			284 m	0:00:16	64 kph	270° true
+Trackpoint	N35.66765 W97.56050	6/29/2011 1:45:17 PM 	341 m			536 m	0:00:28	69 kph	271° true
+Trackpoint	N35.66769 W97.56535	6/29/2011 1:45:40 PM 	338 m			439 m	0:00:23	69 kph	271° true
+Trackpoint	N35.66771 W97.56684	6/29/2011 1:45:50 PM 	338 m			135 m	0:00:10	49 kph	271° true
+Trackpoint	N35.66772 W97.56705	6/29/2011 1:45:55 PM 	337 m			19 m	0:00:05	14 kph	271° true
+Trackpoint	N35.66772 W97.56762	6/29/2011 1:46:01 PM 	339 m			51 m	0:00:06	31 kph	270° true
+Trackpoint	N35.66770 W97.56896	6/29/2011 1:46:09 PM 	338 m			121 m	0:00:08	54 kph	269° true
+Trackpoint	N35.66767 W97.57048	6/29/2011 1:46:17 PM 	334 m			138 m	0:00:08	62 kph	268° true
+Trackpoint	N35.66767 W97.57068	6/29/2011 1:46:18 PM 	334 m			18 m	0:00:01	65 kph	269° true
+Trackpoint	N35.66765 W97.57604	6/29/2011 1:46:45 PM 	336 m			484 m	0:00:27	65 kph	270° true
+Trackpoint	N35.66762 W97.57947	6/29/2011 1:47:02 PM 	338 m			311 m	0:00:17	66 kph	269° true
+Trackpoint	N35.66760 W97.58283	6/29/2011 1:47:18 PM 	339 m			303 m	0:00:16	68 kph	269° true
+Trackpoint	N35.66760 W97.58460	6/29/2011 1:47:26 PM 	335 m			160 m	0:00:08	72 kph	270° true
+Trackpoint	N35.66759 W97.58573	6/29/2011 1:47:31 PM 	331 m			103 m	0:00:05	74 kph	269° true
+Trackpoint	N35.66759 W97.58595	6/29/2011 1:47:32 PM 	331 m			20 m	0:00:01	73 kph	269° true
+Trackpoint	N35.66758 W97.58730	6/29/2011 1:47:38 PM 	328 m			122 m	0:00:06	73 kph	269° true
+Trackpoint	N35.66758 W97.58973	6/29/2011 1:47:49 PM 	325 m			220 m	0:00:11	72 kph	270° true
+Trackpoint	N35.66760 W97.59369	6/29/2011 1:48:08 PM 	322 m			357 m	0:00:19	68 kph	270° true
+Trackpoint	N35.66760 W97.59388	6/29/2011 1:48:09 PM 	322 m			18 m	0:00:01	64 kph	270° true
+Trackpoint	N35.66761 W97.59892	6/29/2011 1:48:34 PM 	320 m			456 m	0:00:25	66 kph	270° true
+Trackpoint	N35.66762 W97.60215	6/29/2011 1:48:49 PM 	319 m			292 m	0:00:15	70 kph	270° true
+Trackpoint	N35.66763 W97.60283	6/29/2011 1:48:53 PM 	319 m			61 m	0:00:04	55 kph	270° true
+Trackpoint	N35.66779 W97.60301	6/29/2011 1:48:59 PM 	317 m			25 m	0:00:06	15 kph	319° true
+Trackpoint	N35.66788 W97.60300	6/29/2011 1:49:00 PM 	317 m			9 m	0:00:01	34 kph	4° true
+Trackpoint	N35.66893 W97.60297	6/29/2011 1:49:08 PM 	317 m			117 m	0:00:08	53 kph	2° true
+Trackpoint	N35.67108 W97.60294	6/29/2011 1:49:20 PM 	319 m			239 m	0:00:12	72 kph	1° true
+Trackpoint	N35.67361 W97.60290	6/29/2011 1:49:32 PM 	320 m			282 m	0:00:12	85 kph	1° true
+Trackpoint	N35.67619 W97.60288	6/29/2011 1:49:44 PM 	321 m			288 m	0:00:12	86 kph	0° true
+Trackpoint	N35.67707 W97.60287	6/29/2011 1:49:48 PM 	323 m			98 m	0:00:04	88 kph	1° true
+Trackpoint	N35.67792 W97.60286	6/29/2011 1:49:52 PM 	326 m			95 m	0:00:04	85 kph	0° true
+Trackpoint	N35.67813 W97.60286	6/29/2011 1:49:53 PM 	326 m			23 m	0:00:01	83 kph	0° true
+Trackpoint	N35.68179 W97.60286	6/29/2011 1:50:12 PM 	326 m			408 m	0:00:19	77 kph	0° true
+Trackpoint	N35.68205 W97.60285	6/29/2011 1:50:17 PM 	324 m			29 m	0:00:05	21 kph	1° true
+Trackpoint	N35.68242 W97.60285	6/29/2011 1:50:23 PM 	325 m			42 m	0:00:06	25 kph	1° true
+Trackpoint	N35.68334 W97.60286	6/29/2011 1:50:30 PM 	325 m			102 m	0:00:07	53 kph	0° true
+Trackpoint	N35.68561 W97.60286	6/29/2011 1:50:43 PM 	321 m			252 m	0:00:13	70 kph	0° true
+Trackpoint	N35.68580 W97.60286	6/29/2011 1:50:44 PM 	321 m			21 m	0:00:01	75 kph	0° true
+Trackpoint	N35.68768 W97.60286	6/29/2011 1:50:55 PM 	319 m			209 m	0:00:11	68 kph	0° true
+Trackpoint	N35.68782 W97.60299	6/29/2011 1:51:00 PM 	319 m			19 m	0:00:05	14 kph	324° true
+Trackpoint	N35.68782 W97.60299	6/29/2011 1:51:02 PM 	318 m			0 m	0:00:02	0.1 kph	180° true
+Trackpoint	N35.68782 W97.60293	6/29/2011 1:51:06 PM 	319 m			5 m	0:00:04	4 kph	91° true
+Trackpoint	N35.68731 W97.60293	6/29/2011 1:51:13 PM 	320 m			57 m	0:00:07	29 kph	180° true
+Trackpoint	N35.68684 W97.60292	6/29/2011 1:51:20 PM 	319 m			52 m	0:00:07	27 kph	179° true
+Trackpoint	N35.68683 W97.60291	6/29/2011 1:51:53 PM 	320 m			2 m	0:00:33	0.2 kph	111° true
+Trackpoint	N35.68580 W97.60289	6/29/2011 1:52:01 PM 	321 m			115 m	0:00:08	52 kph	179° true
+Trackpoint	N35.68487 W97.60288	6/29/2011 1:52:06 PM 	321 m			103 m	0:00:05	74 kph	179° true
+Trackpoint	N35.68478 W97.60302	6/29/2011 1:52:10 PM 	321 m			16 m	0:00:04	15 kph	233° true
+Trackpoint	N35.68470 W97.60310	6/29/2011 1:52:16 PM 	320 m			12 m	0:00:06	7 kph	218° true
+Trackpoint	N35.68472 W97.60308	6/29/2011 1:53:22 PM 	319 m			3 m	0:01:06	0.2 kph	31° true
+Trackpoint	N35.68478 W97.60309	6/29/2011 1:53:27 PM 	319 m			6 m	0:00:05	5 kph	353° true
+Trackpoint	N35.68481 W97.60301	6/29/2011 1:53:37 PM 	319 m			8 m	0:00:10	3 kph	68° true
+Trackpoint	N35.68482 W97.60295	6/29/2011 1:54:11 PM 	320 m			6 m	0:00:34	0.6 kph	79° true
+Trackpoint	N35.68506 W97.60287	6/29/2011 1:54:15 PM 	320 m			28 m	0:00:04	25 kph	13° true
+Trackpoint	N35.68614 W97.60288	6/29/2011 1:54:23 PM 	320 m			119 m	0:00:08	54 kph	0° true
+Trackpoint	N35.68830 W97.60287	6/29/2011 1:54:35 PM 	323 m			240 m	0:00:12	72 kph	0° true
+Trackpoint	N35.68890 W97.60287	6/29/2011 1:54:38 PM 	324 m			67 m	0:00:03	80 kph	0° true
+Trackpoint	N35.69153 W97.60288	6/29/2011 1:54:51 PM 	328 m			293 m	0:00:13	81 kph	0° true
+Trackpoint	N35.69335 W97.60288	6/29/2011 1:55:00 PM 	327 m			203 m	0:00:09	81 kph	0° true
+Trackpoint	N35.69562 W97.60289	6/29/2011 1:55:11 PM 	329 m			253 m	0:00:11	83 kph	0° true
+Trackpoint	N35.69597 W97.60290	6/29/2011 1:55:13 PM 	330 m			39 m	0:00:02	69 kph	0° true
+Trackpoint	N35.69647 W97.60290	6/29/2011 1:55:18 PM 	330 m			56 m	0:00:05	40 kph	0° true
+Trackpoint	N35.69664 W97.60290	6/29/2011 1:55:23 PM 	330 m			19 m	0:00:05	13 kph	359° true
+Trackpoint	N35.69734 W97.60291	6/29/2011 1:55:30 PM 	331 m			79 m	0:00:07	40 kph	0° true
+Trackpoint	N35.69843 W97.60293	6/29/2011 1:55:37 PM 	334 m			121 m	0:00:07	62 kph	359° true
+Trackpoint	N35.70140 W97.60298	6/29/2011 1:55:53 PM 	334 m			331 m	0:00:16	74 kph	359° true
+Trackpoint	N35.70176 W97.60298	6/29/2011 1:55:55 PM 	333 m			40 m	0:00:02	72 kph	359° true
+Trackpoint	N35.70211 W97.60299	6/29/2011 1:55:57 PM 	331 m			40 m	0:00:02	72 kph	359° true
+Trackpoint	N35.70265 W97.60300	6/29/2011 1:56:00 PM 	329 m			60 m	0:00:03	71 kph	359° true
+Trackpoint	N35.70584 W97.60302	6/29/2011 1:56:18 PM 	328 m			355 m	0:00:18	71 kph	0° true
+Trackpoint	N35.70638 W97.60302	6/29/2011 1:56:21 PM 	326 m			61 m	0:00:03	73 kph	0° true
+Trackpoint	N35.70825 W97.60301	6/29/2011 1:56:31 PM 	322 m			207 m	0:00:10	75 kph	0° true
+Trackpoint	N35.71101 W97.60294	6/29/2011 1:56:50 PM 	320 m			308 m	0:00:19	58 kph	1° true
+Trackpoint	N35.71105 W97.60293	6/29/2011 1:56:52 PM 	320 m			5 m	0:00:02	8 kph	14° true
+Trackpoint	N35.71111 W97.60271	6/29/2011 1:56:56 PM 	319 m			21 m	0:00:04	19 kph	70° true
+Trackpoint	N35.71115 W97.60139	6/29/2011 1:57:04 PM 	319 m			120 m	0:00:08	54 kph	88° true
+Trackpoint	N35.71113 W97.60010	6/29/2011 1:57:10 PM 	322 m			117 m	0:00:06	70 kph	91° true
+Trackpoint	N35.71113 W97.59988	6/29/2011 1:57:11 PM 	322 m			20 m	0:00:01	72 kph	90° true
+Trackpoint	N35.71114 W97.59923	6/29/2011 1:57:14 PM 	325 m			59 m	0:00:03	71 kph	90° true
+Trackpoint	N35.71114 W97.59880	6/29/2011 1:57:16 PM 	326 m			39 m	0:00:02	70 kph	90° true
+Trackpoint	N35.71114 W97.59625	6/29/2011 1:57:27 PM 	330 m			230 m	0:00:11	75 kph	90° true
+Trackpoint	N35.71114 W97.59602	6/29/2011 1:57:28 PM 	330 m			21 m	0:00:01	76 kph	90° true
+Trackpoint	N35.71115 W97.59299	6/29/2011 1:57:41 PM 	328 m			273 m	0:00:13	76 kph	90° true
+Trackpoint	N35.71115 W97.59210	6/29/2011 1:57:45 PM 	325 m			81 m	0:00:04	73 kph	90° true
+Trackpoint	N35.71115 W97.59188	6/29/2011 1:57:46 PM 	325 m			20 m	0:00:01	70 kph	90° true
+Trackpoint	N35.71114 W97.59144	6/29/2011 1:57:48 PM 	323 m			41 m	0:00:02	73 kph	90° true
+Trackpoint	N35.71114 W97.59075	6/29/2011 1:57:51 PM 	321 m			62 m	0:00:03	74 kph	90° true
+Trackpoint	N35.71114 W97.58620	6/29/2011 1:58:12 PM 	322 m			411 m	0:00:21	71 kph	90° true
+Trackpoint	N35.71113 W97.58537	6/29/2011 1:58:16 PM 	320 m			75 m	0:00:04	68 kph	91° true
+Trackpoint	N35.71114 W97.58475	6/29/2011 1:58:22 PM 	317 m			55 m	0:00:06	33 kph	90° true
+Trackpoint	N35.71114 W97.58447	6/29/2011 1:58:28 PM 	318 m			26 m	0:00:06	16 kph	89° true
+Trackpoint	N35.71115 W97.58344	6/29/2011 1:58:35 PM 	318 m			93 m	0:00:07	48 kph	89° true
+Trackpoint	N35.71119 W97.58134	6/29/2011 1:58:45 PM 	317 m			190 m	0:00:10	68 kph	89° true
+Trackpoint	N35.71123 W97.57774	6/29/2011 1:59:00 PM 	316 m			325 m	0:00:15	78 kph	89° true
+Trackpoint	N35.71125 W97.57477	6/29/2011 1:59:13 PM 	316 m			269 m	0:00:13	75 kph	90° true
+Trackpoint	N35.71128 W97.57258	6/29/2011 1:59:24 PM 	316 m			197 m	0:00:11	65 kph	89° true
+Trackpoint	N35.71130 W97.56846	6/29/2011 1:59:42 PM 	317 m			373 m	0:00:18	75 kph	90° true
+Trackpoint	N35.71131 W97.56734	6/29/2011 1:59:50 PM 	320 m			102 m	0:00:08	46 kph	89° true
+Trackpoint	N35.71130 W97.56721	6/29/2011 1:59:54 PM 	320 m			11 m	0:00:04	10 kph	96° true
+Trackpoint	N35.71122 W97.56717	6/29/2011 1:59:56 PM 	321 m			9 m	0:00:02	16 kph	151° true
+Trackpoint	N35.71109 W97.56717	6/29/2011 1:59:58 PM 	323 m			15 m	0:00:02	26 kph	180° true
+Trackpoint	N35.71047 W97.56717	6/29/2011 2:00:04 PM 	327 m			69 m	0:00:06	41 kph	180° true
+Trackpoint	N35.71035 W97.56717	6/29/2011 2:00:05 PM 	327 m			14 m	0:00:01	51 kph	181° true
+Trackpoint	N35.71008 W97.56718	6/29/2011 2:00:07 PM 	329 m			30 m	0:00:02	54 kph	180° true
+Trackpoint	N35.70932 W97.56718	6/29/2011 2:00:12 PM 	332 m			85 m	0:00:05	61 kph	180° true
+Trackpoint	N35.70697 W97.56720	6/29/2011 2:00:25 PM 	329 m			262 m	0:00:13	72 kph	180° true
+Trackpoint	N35.70555 W97.56722	6/29/2011 2:00:32 PM 	325 m			157 m	0:00:07	81 kph	180° true
+Trackpoint	N35.70535 W97.56721	6/29/2011 2:00:33 PM 	325 m			22 m	0:00:01	80 kph	178° true
+Trackpoint	N35.70455 W97.56722	6/29/2011 2:00:37 PM 	327 m			89 m	0:00:04	80 kph	180° true
+Trackpoint	N35.70416 W97.56722	6/29/2011 2:00:39 PM 	328 m			44 m	0:00:02	79 kph	180° true
+Trackpoint	N35.70359 W97.56722	6/29/2011 2:00:42 PM 	331 m			63 m	0:00:03	76 kph	180° true
+Trackpoint	N35.70323 W97.56722	6/29/2011 2:00:44 PM 	332 m			41 m	0:00:02	74 kph	180° true
+Trackpoint	N35.70139 W97.56723	6/29/2011 2:00:54 PM 	328 m			205 m	0:00:10	74 kph	180° true
+Trackpoint	N35.70101 W97.56723	6/29/2011 2:00:56 PM 	327 m			42 m	0:00:02	75 kph	180° true
+Trackpoint	N35.70064 W97.56723	6/29/2011 2:00:58 PM 	325 m			42 m	0:00:02	75 kph	181° true
+Trackpoint	N35.70026 W97.56724	6/29/2011 2:01:00 PM 	324 m			42 m	0:00:02	76 kph	181° true
+Trackpoint	N35.69831 W97.56727	6/29/2011 2:01:10 PM 	325 m			217 m	0:00:10	78 kph	181° true
+Trackpoint	N35.69795 W97.56727	6/29/2011 2:01:12 PM 	326 m			39 m	0:00:02	71 kph	180° true
+Trackpoint	N35.69717 W97.56729	6/29/2011 2:01:18 PM 	323 m			88 m	0:00:06	53 kph	181° true
+Trackpoint	N35.69707 W97.56729	6/29/2011 2:01:19 PM 	323 m			11 m	0:00:01	38 kph	182° true
+Trackpoint	N35.69693 W97.56729	6/29/2011 2:01:21 PM 	322 m			15 m	0:00:02	27 kph	181° true
+Trackpoint	N35.69688 W97.56730	6/29/2011 2:01:23 PM 	320 m			7 m	0:00:02	12 kph	181° true
+Trackpoint	N35.69683 W97.56732	6/29/2011 2:01:25 PM 	319 m			5 m	0:00:02	9 kph	203° true
+Trackpoint	N35.69678 W97.56791	6/29/2011 2:01:31 PM 	319 m			54 m	0:00:06	32 kph	264° true
+Trackpoint	N35.69677 W97.56941	6/29/2011 2:01:39 PM 	319 m			135 m	0:00:08	61 kph	269° true
+Trackpoint	N35.69674 W97.57300	6/29/2011 2:01:55 PM 	322 m			325 m	0:00:16	73 kph	269° true
+Trackpoint	N35.69669 W97.57769	6/29/2011 2:02:16 PM 	318 m			424 m	0:00:21	73 kph	269° true
+Trackpoint	N35.69668 W97.57790	6/29/2011 2:02:17 PM 	318 m			19 m	0:00:01	70 kph	269° true
+Trackpoint	N35.69666 W97.58067	6/29/2011 2:02:31 PM 	318 m			250 m	0:00:14	64 kph	269° true
+Trackpoint	N35.69665 W97.58107	6/29/2011 2:02:33 PM 	316 m			36 m	0:00:02	66 kph	269° true
+Trackpoint	N35.69665 W97.58232	6/29/2011 2:02:39 PM 	317 m			113 m	0:00:06	68 kph	270° true
+Trackpoint	N35.69664 W97.58440	6/29/2011 2:02:51 PM 	316 m			188 m	0:00:12	56 kph	270° true
+Trackpoint	N35.69664 W97.58447	6/29/2011 2:02:57 PM 	314 m			6 m	0:00:06	4 kph	270° true
+Trackpoint	N35.69664 W97.58488	6/29/2011 2:03:25 PM 	316 m			37 m	0:00:28	5 kph	269° true
+Trackpoint	N35.69663 W97.58648	6/29/2011 2:03:34 PM 	315 m			145 m	0:00:09	58 kph	270° true
+Trackpoint	N35.69664 W97.58730	6/29/2011 2:03:38 PM 	317 m			74 m	0:00:04	67 kph	270° true
+Trackpoint	N35.69663 W97.58983	6/29/2011 2:03:50 PM 	320 m			229 m	0:00:12	69 kph	270° true
+Trackpoint	N35.69662 W97.59004	6/29/2011 2:03:51 PM 	320 m			19 m	0:00:01	68 kph	269° true
+Trackpoint	N35.69662 W97.59069	6/29/2011 2:03:54 PM 	322 m			58 m	0:00:03	70 kph	270° true
+Trackpoint	N35.69662 W97.59346	6/29/2011 2:04:07 PM 	325 m			251 m	0:00:13	69 kph	270° true
+Trackpoint	N35.69662 W97.59523	6/29/2011 2:04:15 PM 	328 m			160 m	0:00:08	72 kph	270° true
+Trackpoint	N35.69662 W97.59703	6/29/2011 2:04:23 PM 	331 m			163 m	0:00:08	73 kph	270° true
+Trackpoint	N35.69662 W97.59726	6/29/2011 2:04:24 PM 	331 m			21 m	0:00:01	76 kph	270° true
+Trackpoint	N35.69661 W97.59866	6/29/2011 2:04:30 PM 	335 m			127 m	0:00:06	76 kph	270° true
+Trackpoint	N35.69661 W97.59890	6/29/2011 2:04:31 PM 	335 m			21 m	0:00:01	76 kph	270° true
+Trackpoint	N35.69661 W97.60260	6/29/2011 2:04:48 PM 	333 m			335 m	0:00:17	71 kph	270° true
+Trackpoint	N35.69661 W97.60280	6/29/2011 2:04:52 PM 	331 m			18 m	0:00:04	16 kph	270° true
+Trackpoint	N35.69661 W97.60283	6/29/2011 2:04:54 PM 	332 m			3 m	0:00:02	5 kph	260° true
+Trackpoint	N35.69661 W97.60369	6/29/2011 2:05:02 PM 	333 m			78 m	0:00:08	35 kph	270° true
+Trackpoint	N35.69662 W97.60559	6/29/2011 2:05:12 PM 	332 m			172 m	0:00:10	62 kph	270° true
+Trackpoint	N35.69662 W97.60668	6/29/2011 2:05:17 PM 	335 m			98 m	0:00:05	71 kph	270° true
+Trackpoint	N35.69662 W97.61117	6/29/2011 2:05:37 PM 	337 m			406 m	0:00:20	73 kph	270° true
+Trackpoint	N35.69662 W97.61365	6/29/2011 2:05:48 PM 	340 m			223 m	0:00:11	73 kph	270° true
+Trackpoint	N35.69663 W97.61601	6/29/2011 2:05:59 PM 	340 m			214 m	0:00:11	70 kph	270° true
+Trackpoint	N35.69664 W97.61946	6/29/2011 2:06:15 PM 	341 m			312 m	0:00:16	70 kph	270° true
+Trackpoint	N35.69663 W97.62044	6/29/2011 2:06:21 PM 	339 m			88 m	0:00:06	53 kph	270° true
+Trackpoint	N35.69663 W97.62070	6/29/2011 2:06:26 PM 	337 m			23 m	0:00:05	17 kph	270° true
+Trackpoint	N35.69663 W97.62092	6/29/2011 2:06:29 PM 	339 m			20 m	0:00:03	24 kph	270° true
+Trackpoint	N35.69663 W97.62190	6/29/2011 2:06:36 PM 	340 m			89 m	0:00:07	46 kph	270° true
+Trackpoint	N35.69662 W97.62392	6/29/2011 2:06:46 PM 	343 m			183 m	0:00:10	66 kph	270° true
+Trackpoint	N35.69662 W97.62414	6/29/2011 2:06:47 PM 	343 m			20 m	0:00:01	73 kph	269° true
+Trackpoint	N35.69660 W97.62594	6/29/2011 2:06:55 PM 	347 m			162 m	0:00:08	73 kph	270° true
+Trackpoint	N35.69660 W97.62617	6/29/2011 2:06:56 PM 	347 m			20 m	0:00:01	74 kph	270° true
+Trackpoint	N35.69656 W97.63214	6/29/2011 2:07:22 PM 	347 m			540 m	0:00:26	75 kph	270° true
+Trackpoint	N35.69655 W97.63250	6/29/2011 2:07:24 PM 	345 m			33 m	0:00:02	59 kph	269° true
+Trackpoint	N35.69655 W97.63442	6/29/2011 2:07:34 PM 	342 m			173 m	0:00:10	62 kph	270° true
+Trackpoint	N35.69655 W97.63484	6/29/2011 2:07:36 PM 	340 m			39 m	0:00:02	70 kph	270° true
+Trackpoint	N35.69654 W97.63688	6/29/2011 2:07:45 PM 	342 m			184 m	0:00:09	74 kph	270° true
+Trackpoint	N35.69653 W97.63825	6/29/2011 2:07:52 PM 	340 m			124 m	0:00:07	64 kph	270° true
+Trackpoint	N35.69653 W97.63843	6/29/2011 2:07:54 PM 	339 m			16 m	0:00:02	30 kph	270° true
+Trackpoint	N35.69654 W97.63850	6/29/2011 2:07:56 PM 	337 m			6 m	0:00:02	11 kph	277° true
+Trackpoint	N35.69655 W97.63852	6/29/2011 2:07:57 PM 	337 m			3 m	0:00:01	11 kph	302° true
+Trackpoint	N35.69682 W97.63858	6/29/2011 2:08:01 PM 	339 m			30 m	0:00:04	27 kph	350° true
+Trackpoint	N35.69801 W97.63858	6/29/2011 2:08:10 PM 	339 m			132 m	0:00:09	53 kph	0° true
+Trackpoint	N35.70001 W97.63859	6/29/2011 2:08:21 PM 	342 m			223 m	0:00:11	73 kph	0° true
+Trackpoint	N35.70222 W97.63860	6/29/2011 2:08:32 PM 	345 m			246 m	0:00:11	80 kph	0° true
+Trackpoint	N35.70386 W97.63860	6/29/2011 2:08:40 PM 	347 m			182 m	0:00:08	82 kph	0° true
+Trackpoint	N35.70846 W97.63861	6/29/2011 2:09:03 PM 	347 m			513 m	0:00:23	80 kph	0° true
+Trackpoint	N35.70976 W97.63860	6/29/2011 2:09:10 PM 	344 m			145 m	0:00:07	74 kph	0° true
+Trackpoint	N35.70994 W97.63860	6/29/2011 2:09:11 PM 	344 m			20 m	0:00:01	71 kph	0° true
+Trackpoint	N35.71106 W97.63860	6/29/2011 2:09:19 PM 	340 m			124 m	0:00:08	56 kph	0° true
+Trackpoint	N35.71109 W97.63859	6/29/2011 2:09:20 PM 	340 m			3 m	0:00:01	12 kph	9° true
+Trackpoint	N35.71110 W97.63858	6/29/2011 2:09:21 PM 	340 m			2 m	0:00:01	8 kph	31° true
+Trackpoint	N35.71114 W97.63831	6/29/2011 2:09:25 PM 	341 m			25 m	0:00:04	22 kph	82° true
+Trackpoint	N35.71111 W97.63708	6/29/2011 2:09:33 PM 	344 m			111 m	0:00:08	50 kph	92° true
+Trackpoint	N35.71110 W97.63484	6/29/2011 2:09:43 PM 	343 m			203 m	0:00:10	73 kph	90° true
+Trackpoint	N35.71111 W97.62999	6/29/2011 2:10:02 PM 	341 m			438 m	0:00:19	83 kph	90° true
+Trackpoint	N35.71112 W97.62740	6/29/2011 2:10:12 PM 	338 m			234 m	0:00:10	84 kph	90° true
+Trackpoint	N35.71113 W97.62485	6/29/2011 2:10:22 PM 	335 m			231 m	0:00:10	83 kph	90° true
+Trackpoint	N35.71114 W97.62433	6/29/2011 2:10:24 PM 	333 m			47 m	0:00:02	85 kph	90° true
+Trackpoint	N35.71114 W97.62155	6/29/2011 2:10:36 PM 	330 m			251 m	0:00:12	75 kph	90° true
+Trackpoint	N35.71115 W97.62123	6/29/2011 2:10:38 PM 	329 m			30 m	0:00:02	54 kph	90° true
+Trackpoint	N35.71115 W97.62089	6/29/2011 2:10:41 PM 	327 m			30 m	0:00:03	36 kph	90° true
+Trackpoint	N35.71112 W97.62079	6/29/2011 2:10:44 PM 	327 m			9 m	0:00:03	11 kph	105° true
+Trackpoint	N35.71090 W97.62074	6/29/2011 2:10:48 PM 	328 m			26 m	0:00:04	23 kph	169° true
+Trackpoint	N35.71022 W97.62073	6/29/2011 2:10:54 PM 	331 m			76 m	0:00:06	45 kph	180° true
+Trackpoint	N35.70913 W97.62073	6/29/2011 2:11:01 PM 	333 m			121 m	0:00:07	62 kph	180° true
+Trackpoint	N35.70774 W97.62074	6/29/2011 2:11:10 PM 	337 m			154 m	0:00:09	62 kph	180° true
+Trackpoint	N35.70758 W97.62074	6/29/2011 2:11:11 PM 	337 m			18 m	0:00:01	63 kph	180° true
+Trackpoint	N35.70695 W97.62074	6/29/2011 2:11:15 PM 	339 m			70 m	0:00:04	63 kph	180° true
+Trackpoint	N35.70554 W97.62075	6/29/2011 2:11:24 PM 	336 m			157 m	0:00:09	63 kph	180° true
+Trackpoint	N35.70538 W97.62075	6/29/2011 2:11:25 PM 	336 m			17 m	0:00:01	63 kph	180° true
+Trackpoint	N35.70392 W97.62077	6/29/2011 2:11:34 PM 	336 m			163 m	0:00:09	65 kph	181° true
+Trackpoint	N35.70357 W97.62077	6/29/2011 2:11:36 PM 	338 m			38 m	0:00:02	69 kph	180° true
+Trackpoint	N35.70323 W97.62077	6/29/2011 2:11:38 PM 	341 m			38 m	0:00:02	69 kph	180° true
+Trackpoint	N35.70306 W97.62077	6/29/2011 2:11:39 PM 	341 m			19 m	0:00:01	69 kph	180° true
+Trackpoint	N35.70012 W97.62077	6/29/2011 2:11:55 PM 	342 m			327 m	0:00:16	74 kph	180° true
+Trackpoint	N35.69882 W97.62078	6/29/2011 2:12:02 PM 	341 m			145 m	0:00:07	75 kph	180° true
+Trackpoint	N35.69687 W97.62079	6/29/2011 2:12:14 PM 	339 m			217 m	0:00:12	65 kph	180° true
+Trackpoint	N35.69669 W97.62079	6/29/2011 2:12:19 PM 	338 m			20 m	0:00:05	15 kph	180° true
+Trackpoint	N35.69649 W97.62079	6/29/2011 2:12:22 PM 	339 m			22 m	0:00:03	26 kph	179° true
+Trackpoint	N35.69561 W97.62078	6/29/2011 2:12:29 PM 	338 m			97 m	0:00:07	50 kph	180° true
+Trackpoint	N35.69398 W97.62078	6/29/2011 2:12:38 PM 	337 m			182 m	0:00:09	73 kph	180° true
+Trackpoint	N35.69091 W97.62077	6/29/2011 2:12:53 PM 	336 m			342 m	0:00:15	82 kph	180° true
+Trackpoint	N35.68943 W97.62078	6/29/2011 2:13:02 PM 	334 m			165 m	0:00:09	66 kph	180° true
+Trackpoint	N35.68814 W97.62079	6/29/2011 2:13:13 PM 	333 m			144 m	0:00:11	47 kph	180° true
+Trackpoint	N35.68663 W97.62080	6/29/2011 2:13:24 PM 	332 m			167 m	0:00:11	55 kph	180° true
+Trackpoint	N35.68441 W97.62078	6/29/2011 2:13:39 PM 	332 m			248 m	0:00:15	60 kph	180° true
+Trackpoint	N35.68228 W97.62079	6/29/2011 2:13:55 PM 	330 m			237 m	0:00:16	53 kph	180° true
+Trackpoint	N35.68208 W97.62079	6/29/2011 2:14:01 PM 	332 m			22 m	0:00:06	13 kph	180° true
+Trackpoint	N35.68202 W97.62079	6/29/2011 2:14:02 PM 	332 m			7 m	0:00:01	27 kph	180° true
+Trackpoint	N35.68129 W97.62079	6/29/2011 2:14:11 PM 	331 m			80 m	0:00:09	32 kph	180° true
+Trackpoint	N35.68043 W97.62079	6/29/2011 2:14:19 PM 	333 m			97 m	0:00:08	43 kph	180° true
+Trackpoint	N35.67879 W97.62079	6/29/2011 2:14:30 PM 	331 m			183 m	0:00:11	60 kph	180° true
+Trackpoint	N35.67842 W97.62079	6/29/2011 2:14:32 PM 	329 m			40 m	0:00:02	72 kph	180° true
+Trackpoint	N35.67805 W97.62079	6/29/2011 2:14:34 PM 	328 m			41 m	0:00:02	75 kph	180° true
+Trackpoint	N35.67749 W97.62079	6/29/2011 2:14:37 PM 	325 m			62 m	0:00:03	75 kph	180° true
+Trackpoint	N35.67485 W97.62079	6/29/2011 2:14:51 PM 	328 m			294 m	0:00:14	75 kph	180° true
+Trackpoint	N35.67448 W97.62079	6/29/2011 2:14:53 PM 	329 m			42 m	0:00:02	75 kph	180° true
+Trackpoint	N35.67180 W97.62080	6/29/2011 2:15:07 PM 	331 m			298 m	0:00:14	77 kph	180° true
+Trackpoint	N35.67142 W97.62080	6/29/2011 2:15:09 PM 	333 m			42 m	0:00:02	76 kph	181° true
+Trackpoint	N35.67065 W97.62080	6/29/2011 2:15:13 PM 	330 m			85 m	0:00:04	77 kph	180° true
+Trackpoint	N35.67046 W97.62080	6/29/2011 2:15:14 PM 	330 m			21 m	0:00:01	77 kph	180° true
+Trackpoint	N35.67008 W97.62080	6/29/2011 2:15:16 PM 	328 m			43 m	0:00:02	77 kph	180° true
+Trackpoint	N35.66929 W97.62080	6/29/2011 2:15:20 PM 	324 m			87 m	0:00:04	78 kph	180° true
+Trackpoint	N35.66910 W97.62080	6/29/2011 2:15:21 PM 	324 m			22 m	0:00:01	78 kph	180° true
+Trackpoint	N35.66592 W97.62079	6/29/2011 2:15:38 PM 	324 m			354 m	0:00:17	75 kph	180° true
+Trackpoint	N35.66227 W97.62077	6/29/2011 2:15:56 PM 	325 m			407 m	0:00:18	81 kph	180° true
+Trackpoint	N35.65854 W97.62077	6/29/2011 2:16:14 PM 	327 m			415 m	0:00:18	83 kph	180° true
+Trackpoint	N35.65609 W97.62077	6/29/2011 2:16:26 PM 	330 m			273 m	0:00:12	82 kph	180° true
+Trackpoint	N35.65568 W97.62077	6/29/2011 2:16:28 PM 	331 m			46 m	0:00:02	82 kph	180° true
+Trackpoint	N35.65527 W97.62077	6/29/2011 2:16:30 PM 	333 m			45 m	0:00:02	81 kph	180° true
+Trackpoint	N35.65312 W97.62077	6/29/2011 2:16:42 PM 	333 m			239 m	0:00:12	72 kph	180° true
+Trackpoint	N35.65305 W97.62079	6/29/2011 2:16:44 PM 	331 m			8 m	0:00:02	15 kph	191° true
+Trackpoint	N35.65299 W97.62104	6/29/2011 2:16:48 PM 	332 m			24 m	0:00:04	21 kph	253° true
+Trackpoint	N35.65299 W97.62141	6/29/2011 2:16:51 PM 	333 m			34 m	0:00:03	41 kph	271° true
+Trackpoint	N35.65301 W97.62293	6/29/2011 2:16:59 PM 	332 m			137 m	0:00:08	62 kph	271° true
+Trackpoint	N35.65303 W97.62437	6/29/2011 2:17:05 PM 	334 m			130 m	0:00:06	78 kph	271° true
+Trackpoint	N35.65302 W97.62609	6/29/2011 2:17:12 PM 	334 m			156 m	0:00:07	80 kph	270° true
+Trackpoint	N35.65302 W97.62732	6/29/2011 2:17:17 PM 	330 m			111 m	0:00:05	80 kph	270° true
+Trackpoint	N35.65302 W97.62755	6/29/2011 2:17:18 PM 	330 m			21 m	0:00:01	77 kph	270° true
+Trackpoint	N35.65301 W97.62827	6/29/2011 2:17:21 PM 	327 m			64 m	0:00:03	77 kph	269° true
+Trackpoint	N35.65304 W97.63286	6/29/2011 2:17:40 PM 	331 m			416 m	0:00:19	79 kph	270° true
+Trackpoint	N35.65304 W97.63332	6/29/2011 2:17:42 PM 	332 m			42 m	0:00:02	75 kph	270° true
+Trackpoint	N35.65304 W97.63497	6/29/2011 2:17:49 PM 	331 m			149 m	0:00:07	77 kph	270° true
+Trackpoint	N35.65305 W97.63545	6/29/2011 2:17:51 PM 	329 m			44 m	0:00:02	79 kph	270° true
+Trackpoint	N35.65302 W97.63740	6/29/2011 2:17:59 PM 	327 m			176 m	0:00:08	79 kph	269° true
+Trackpoint	N35.65290 W97.63833	6/29/2011 2:18:05 PM 	323 m			85 m	0:00:06	51 kph	261° true
+Trackpoint	N35.65290 W97.63866	6/29/2011 2:18:11 PM 	324 m			30 m	0:00:06	18 kph	268° true
+Trackpoint	N35.65288 W97.63964	6/29/2011 2:18:18 PM 	326 m			90 m	0:00:07	46 kph	269° true
+Trackpoint	N35.65295 W97.64152	6/29/2011 2:18:27 PM 	327 m			170 m	0:00:09	68 kph	273° true
+Trackpoint	N35.65303 W97.64365	6/29/2011 2:18:36 PM 	327 m			193 m	0:00:09	77 kph	273° true
+Trackpoint	N35.65305 W97.64682	6/29/2011 2:18:49 PM 	328 m			287 m	0:00:13	79 kph	270° true
+Trackpoint	N35.65304 W97.65295	6/29/2011 2:19:12 PM 	330 m			555 m	0:00:23	87 kph	270° true
+Trackpoint	N35.65304 W97.65548	6/29/2011 2:19:22 PM 	327 m			228 m	0:00:10	82 kph	270° true
+Trackpoint	N35.65304 W97.65566	6/29/2011 2:19:23 PM 	327 m			16 m	0:00:01	59 kph	270° true
+Trackpoint	N35.65304 W97.65607	6/29/2011 2:19:26 PM 	324 m			38 m	0:00:03	45 kph	270° true
+Trackpoint	N35.65304 W97.65631	6/29/2011 2:19:31 PM 	324 m			22 m	0:00:05	16 kph	270° true
+Trackpoint	N35.65303 W97.65696	6/29/2011 2:19:37 PM 	325 m			58 m	0:00:06	35 kph	269° true
+Trackpoint	N35.65303 W97.65844	6/29/2011 2:19:45 PM 	327 m			134 m	0:00:08	60 kph	270° true
+Trackpoint	N35.65303 W97.66026	6/29/2011 2:19:53 PM 	329 m			165 m	0:00:08	74 kph	270° true
+Trackpoint	N35.65303 W97.66074	6/29/2011 2:19:55 PM 	331 m			43 m	0:00:02	78 kph	270° true
+Trackpoint	N35.65303 W97.66272	6/29/2011 2:20:03 PM 	331 m			180 m	0:00:08	81 kph	270° true
+Trackpoint	N35.65303 W97.66399	6/29/2011 2:20:08 PM 	335 m			115 m	0:00:05	83 kph	270° true
+Trackpoint	N35.65302 W97.66450	6/29/2011 2:20:10 PM 	336 m			46 m	0:00:02	83 kph	270° true
+Trackpoint	N35.65302 W97.66578	6/29/2011 2:20:15 PM 	339 m			116 m	0:00:05	83 kph	270° true
+Trackpoint	N35.65302 W97.66629	6/29/2011 2:20:17 PM 	341 m			46 m	0:00:02	82 kph	270° true
+Trackpoint	N35.65301 W97.67218	6/29/2011 2:20:41 PM 	341 m			533 m	0:00:24	80 kph	270° true
+Trackpoint	N35.65301 W97.67370	6/29/2011 2:20:49 PM 	339 m			137 m	0:00:08	62 kph	270° true
+Trackpoint	N35.65301 W97.67405	6/29/2011 2:20:51 PM 	337 m			32 m	0:00:02	58 kph	270° true
+Trackpoint	N35.65301 W97.67425	6/29/2011 2:20:53 PM 	335 m			18 m	0:00:02	33 kph	270° true
+Trackpoint	N35.65317 W97.67398	6/29/2011 2:20:57 PM 	336 m			31 m	0:00:04	28 kph	54° true
+Trackpoint	N35.65380 W97.67396	6/29/2011 2:21:03 PM 	337 m			69 m	0:00:06	42 kph	1° true
+Trackpoint	N35.65438 W97.67396	6/29/2011 2:21:07 PM 	339 m			65 m	0:00:04	58 kph	0° true
+Trackpoint	N35.65660 W97.67397	6/29/2011 2:21:21 PM 	340 m			247 m	0:00:14	64 kph	0° true
+Trackpoint	N35.65876 W97.67398	6/29/2011 2:21:34 PM 	343 m			241 m	0:00:13	67 kph	0° true
+Trackpoint	N35.65967 W97.67398	6/29/2011 2:21:39 PM 	345 m			101 m	0:00:05	73 kph	0° true
+Trackpoint	N35.66228 W97.67399	6/29/2011 2:21:53 PM 	348 m			290 m	0:00:14	75 kph	0° true
+Trackpoint	N35.66366 W97.67399	6/29/2011 2:22:00 PM 	352 m			154 m	0:00:07	79 kph	0° true
+Trackpoint	N35.66386 W97.67399	6/29/2011 2:22:01 PM 	352 m			22 m	0:00:01	80 kph	0° true
+Trackpoint	N35.66592 W97.67399	6/29/2011 2:22:12 PM 	350 m			230 m	0:00:11	75 kph	0° true
+Trackpoint	N35.66660 W97.67399	6/29/2011 2:22:16 PM 	347 m			76 m	0:00:04	68 kph	0° true
+Trackpoint	N35.66676 W97.67399	6/29/2011 2:22:17 PM 	347 m			18 m	0:00:01	64 kph	0° true
+Trackpoint	N35.66705 W97.67399	6/29/2011 2:22:19 PM 	345 m			32 m	0:00:02	58 kph	1° true
+Trackpoint	N35.66717 W97.67398	6/29/2011 2:22:20 PM 	341 m			13 m	0:00:01	49 kph	2° true
+Trackpoint	N35.66727 W97.67398	6/29/2011 2:22:21 PM 	341 m			12 m	0:00:01	42 kph	1° true
+Trackpoint	N35.66735 W97.67398	6/29/2011 2:22:22 PM 	341 m			9 m	0:00:01	33 kph	0° true
+Trackpoint	N35.66747 W97.67402	6/29/2011 2:22:24 PM 	339 m			13 m	0:00:02	24 kph	343° true
+Trackpoint	N35.66754 W97.67434	6/29/2011 2:22:28 PM 	340 m			30 m	0:00:04	27 kph	285° true
+Trackpoint	N35.66756 W97.67592	6/29/2011 2:22:39 PM 	341 m			142 m	0:00:11	47 kph	271° true
+Trackpoint	N35.66759 W97.67690	6/29/2011 2:22:45 PM 	343 m			89 m	0:00:06	54 kph	272° true
+Trackpoint	N35.66758 W97.67934	6/29/2011 2:23:00 PM 	346 m			220 m	0:00:15	53 kph	270° true
+Trackpoint	N35.66757 W97.68165	6/29/2011 2:23:14 PM 	350 m			209 m	0:00:14	54 kph	270° true
+Trackpoint	N35.66758 W97.68184	6/29/2011 2:23:15 PM 	350 m			17 m	0:00:01	60 kph	271° true
+Trackpoint	N35.66758 W97.68369	6/29/2011 2:23:25 PM 	353 m			167 m	0:00:10	60 kph	270° true
+Trackpoint	N35.66760 W97.68675	6/29/2011 2:23:42 PM 	352 m			277 m	0:00:17	59 kph	270° true
+Trackpoint	N35.66760 W97.69110	6/29/2011 2:24:05 PM 	352 m			394 m	0:00:23	62 kph	270° true
+Trackpoint	N35.66761 W97.69151	6/29/2011 2:24:08 PM 	351 m			36 m	0:00:03	44 kph	272° true
+Trackpoint	N35.66762 W97.69184	6/29/2011 2:24:14 PM 	351 m			30 m	0:00:06	18 kph	271° true
+Trackpoint	N35.66760 W97.69188	6/29/2011 2:24:16 PM 	351 m			4 m	0:00:02	8 kph	244° true
+Trackpoint	N35.66708 W97.69192	6/29/2011 2:24:23 PM 	352 m			58 m	0:00:07	30 kph	183° true
+Trackpoint	N35.66575 W97.69191	6/29/2011 2:24:33 PM 	355 m			148 m	0:00:10	53 kph	180° true
+Trackpoint	N35.66532 W97.69191	6/29/2011 2:24:36 PM 	353 m			47 m	0:00:03	56 kph	180° true
+Trackpoint	N35.66224 W97.69189	6/29/2011 2:24:58 PM 	350 m			344 m	0:00:22	56 kph	180° true
+Trackpoint	N35.65976 W97.69187	6/29/2011 2:25:14 PM 	349 m			276 m	0:00:16	62 kph	180° true
+Trackpoint	N35.65859 W97.69188	6/29/2011 2:25:21 PM 	345 m			130 m	0:00:07	67 kph	180° true
+Trackpoint	N35.65842 W97.69188	6/29/2011 2:25:22 PM 	345 m			19 m	0:00:01	67 kph	180° true
+Trackpoint	N35.65733 W97.69188	6/29/2011 2:25:29 PM 	346 m			122 m	0:00:07	63 kph	180° true
+Trackpoint	N35.65702 W97.69188	6/29/2011 2:25:31 PM 	348 m			34 m	0:00:02	61 kph	180° true
+Trackpoint	N35.65561 W97.69188	6/29/2011 2:25:40 PM 	346 m			157 m	0:00:09	63 kph	180° true
+Trackpoint	N35.65337 W97.69187	6/29/2011 2:25:55 PM 	343 m			249 m	0:00:15	60 kph	180° true
+Trackpoint	N35.65313 W97.69188	6/29/2011 2:25:59 PM 	341 m			27 m	0:00:04	24 kph	181° true
+Trackpoint	N35.65306 W97.69184	6/29/2011 2:26:04 PM 	341 m			8 m	0:00:05	6 kph	158° true
+Trackpoint	N35.65303 W97.69101	6/29/2011 2:26:11 PM 	341 m			75 m	0:00:07	39 kph	93° true
+Trackpoint	N35.65303 W97.68939	6/29/2011 2:26:19 PM 	343 m			147 m	0:00:08	66 kph	90° true
+Trackpoint	N35.65303 W97.68917	6/29/2011 2:26:20 PM 	343 m			20 m	0:00:01	73 kph	90° true
+Trackpoint	N35.65304 W97.68871	6/29/2011 2:26:22 PM 	345 m			42 m	0:00:02	75 kph	90° true
+Trackpoint	N35.65303 W97.68498	6/29/2011 2:26:37 PM 	346 m			337 m	0:00:15	81 kph	90° true
+Trackpoint	N35.65301 W97.68164	6/29/2011 2:26:50 PM 	346 m			302 m	0:00:13	84 kph	90° true
+Trackpoint	N35.65299 W97.67855	6/29/2011 2:27:02 PM 	349 m			279 m	0:00:12	84 kph	90° true
+Trackpoint	N35.65297 W97.67525	6/29/2011 2:27:16 PM 	344 m			299 m	0:00:14	77 kph	90° true
+Trackpoint	N35.65297 W97.67505	6/29/2011 2:27:17 PM 	344 m			18 m	0:00:01	65 kph	90° true
+Trackpoint	N35.65297 W97.67470	6/29/2011 2:27:19 PM 	340 m			31 m	0:00:02	57 kph	90° true
+Trackpoint	N35.65297 W97.67455	6/29/2011 2:27:20 PM 	340 m			13 m	0:00:01	47 kph	91° true
+Trackpoint	N35.65295 W97.67411	6/29/2011 2:27:26 PM 	338 m			40 m	0:00:06	24 kph	93° true
+Trackpoint	N35.65271 W97.67404	6/29/2011 2:27:30 PM 	339 m			27 m	0:00:04	25 kph	167° true
+Trackpoint	N35.65168 W97.67404	6/29/2011 2:27:38 PM 	339 m			115 m	0:00:08	52 kph	180° true
+Trackpoint	N35.64960 W97.67402	6/29/2011 2:27:50 PM 	339 m			232 m	0:00:12	70 kph	180° true
+Trackpoint	N35.64610 W97.67399	6/29/2011 2:28:09 PM 	335 m			390 m	0:00:19	74 kph	180° true
+Trackpoint	N35.64260 W97.67400	6/29/2011 2:28:27 PM 	336 m			389 m	0:00:18	78 kph	180° true
+Trackpoint	N35.63999 W97.67401	6/29/2011 2:28:41 PM 	334 m			291 m	0:00:14	75 kph	180° true
+Trackpoint	N35.63883 W97.67401	6/29/2011 2:28:50 PM 	332 m			129 m	0:00:09	52 kph	180° true
+Trackpoint	N35.63874 W97.67401	6/29/2011 2:28:52 PM 	330 m			10 m	0:00:02	17 kph	180° true
+Trackpoint	N35.63863 W97.67400	6/29/2011 2:28:57 PM 	330 m			12 m	0:00:05	9 kph	176° true
+Trackpoint	N35.63856 W97.67374	6/29/2011 2:29:01 PM 	331 m			25 m	0:00:04	23 kph	108° true
+Trackpoint	N35.63855 W97.67253	6/29/2011 2:29:09 PM 	332 m			110 m	0:00:08	49 kph	91° true
+Trackpoint	N35.63855 W97.67171	6/29/2011 2:29:13 PM 	334 m			74 m	0:00:04	67 kph	90° true
+Trackpoint	N35.63856 W97.66838	6/29/2011 2:29:27 PM 	334 m			301 m	0:00:14	77 kph	90° true
+Trackpoint	N35.63855 W97.66236	6/29/2011 2:29:51 PM 	336 m			545 m	0:00:24	82 kph	90° true
+Trackpoint	N35.63854 W97.65876	6/29/2011 2:30:05 PM 	340 m			326 m	0:00:14	84 kph	90° true
+Trackpoint	N35.63854 W97.65850	6/29/2011 2:30:06 PM 	340 m			23 m	0:00:01	85 kph	90° true
+Trackpoint	N35.63854 W97.65674	6/29/2011 2:30:14 PM 	341 m			159 m	0:00:08	72 kph	90° true
+Trackpoint	N35.63854 W97.65653	6/29/2011 2:30:16 PM 	340 m			19 m	0:00:02	34 kph	90° true
+Trackpoint	N35.63852 W97.65644	6/29/2011 2:30:18 PM 	338 m			8 m	0:00:02	14 kph	104° true
+Trackpoint	N35.63834 W97.65635	6/29/2011 2:30:22 PM 	340 m			22 m	0:00:04	20 kph	158° true
+Trackpoint	N35.63826 W97.65635	6/29/2011 2:30:23 PM 	340 m			9 m	0:00:01	33 kph	181° true
+Trackpoint	N35.63722 W97.65636	6/29/2011 2:30:31 PM 	342 m			115 m	0:00:08	52 kph	181° true
+Trackpoint	N35.63671 W97.65637	6/29/2011 2:30:34 PM 	343 m			57 m	0:00:03	68 kph	180° true
+Trackpoint	N35.63558 W97.65637	6/29/2011 2:30:40 PM 	347 m			126 m	0:00:06	75 kph	180° true
+Trackpoint	N35.63538 W97.65637	6/29/2011 2:30:41 PM 	347 m			23 m	0:00:01	82 kph	180° true
+Trackpoint	N35.63393 W97.65637	6/29/2011 2:30:48 PM 	349 m			161 m	0:00:07	83 kph	180° true
+Trackpoint	N35.62980 W97.65641	6/29/2011 2:31:07 PM 	351 m			460 m	0:00:19	87 kph	180° true
+Trackpoint	N35.62555 W97.65639	6/29/2011 2:31:27 PM 	351 m			473 m	0:00:20	85 kph	180° true
+Trackpoint	N35.62458 W97.65638	6/29/2011 2:31:32 PM 	349 m			108 m	0:00:05	78 kph	180° true
+Trackpoint	N35.62424 W97.65638	6/29/2011 2:31:34 PM 	347 m			37 m	0:00:02	67 kph	180° true
+Trackpoint	N35.62399 W97.65638	6/29/2011 2:31:36 PM 	346 m			28 m	0:00:02	50 kph	180° true
+Trackpoint	N35.62388 W97.65638	6/29/2011 2:31:38 PM 	344 m			13 m	0:00:02	23 kph	180° true
+Trackpoint	N35.62384 W97.65638	6/29/2011 2:31:40 PM 	342 m			4 m	0:00:02	7 kph	180° true
+Trackpoint	N35.62365 W97.65638	6/29/2011 2:31:43 PM 	344 m			21 m	0:00:03	25 kph	181° true
+Trackpoint	N35.62280 W97.65638	6/29/2011 2:31:50 PM 	345 m			95 m	0:00:07	49 kph	180° true
+Trackpoint	N35.62250 W97.65638	6/29/2011 2:31:52 PM 	347 m			34 m	0:00:02	62 kph	180° true
+Trackpoint	N35.62199 W97.65637	6/29/2011 2:31:55 PM 	350 m			56 m	0:00:03	68 kph	180° true
+Trackpoint	N35.62090 W97.65638	6/29/2011 2:32:01 PM 	352 m			122 m	0:00:06	73 kph	180° true
+Trackpoint	N35.62071 W97.65638	6/29/2011 2:32:02 PM 	352 m			21 m	0:00:01	75 kph	180° true
+Trackpoint	N35.61871 W97.65638	6/29/2011 2:32:12 PM 	356 m			222 m	0:00:10	80 kph	180° true
+Trackpoint	N35.61658 W97.65637	6/29/2011 2:32:22 PM 	355 m			238 m	0:00:10	86 kph	180° true
+Trackpoint	N35.61447 W97.65638	6/29/2011 2:32:32 PM 	354 m			235 m	0:00:10	85 kph	180° true
+Trackpoint	N35.61330 W97.65638	6/29/2011 2:32:38 PM 	351 m			130 m	0:00:06	78 kph	180° true
+Trackpoint	N35.61311 W97.65638	6/29/2011 2:32:39 PM 	351 m			21 m	0:00:01	77 kph	180° true
+Trackpoint	N35.61189 W97.65638	6/29/2011 2:32:46 PM 	352 m			136 m	0:00:07	70 kph	180° true
+Trackpoint	N35.61155 W97.65638	6/29/2011 2:32:48 PM 	353 m			37 m	0:00:02	67 kph	180° true
+Trackpoint	N35.61068 W97.65638	6/29/2011 2:32:55 PM 	353 m			98 m	0:00:07	50 kph	180° true
+Trackpoint	N35.61049 W97.65638	6/29/2011 2:32:59 PM 	354 m			21 m	0:00:04	19 kph	180° true
+Trackpoint	N35.61032 W97.65638	6/29/2011 2:33:01 PM 	355 m			19 m	0:00:02	34 kph	180° true
+Trackpoint	N35.60998 W97.65638	6/29/2011 2:33:04 PM 	356 m			38 m	0:00:03	46 kph	180° true
+Trackpoint	N35.60929 W97.65638	6/29/2011 2:33:12 PM 	355 m			76 m	0:00:08	34 kph	180° true
+Trackpoint	N35.60908 W97.65638	6/29/2011 2:33:16 PM 	357 m			24 m	0:00:04	22 kph	180° true
+Trackpoint	N35.60822 W97.65637	6/29/2011 2:33:23 PM 	358 m			95 m	0:00:07	49 kph	180° true
+Trackpoint	N35.60677 W97.65637	6/29/2011 2:33:31 PM 	355 m			161 m	0:00:08	73 kph	180° true
+Trackpoint	N35.60656 W97.65637	6/29/2011 2:33:32 PM 	355 m			23 m	0:00:01	84 kph	179° true
+Trackpoint	N35.60507 W97.65637	6/29/2011 2:33:39 PM 	357 m			166 m	0:00:07	85 kph	180° true
+Trackpoint	N35.60465 W97.65637	6/29/2011 2:33:41 PM 	359 m			47 m	0:00:02	84 kph	180° true
+Trackpoint	N35.60280 W97.65636	6/29/2011 2:33:50 PM 	361 m			206 m	0:00:09	82 kph	180° true
+Trackpoint	N35.60220 W97.65635	6/29/2011 2:33:53 PM 	359 m			68 m	0:00:03	81 kph	180° true
+Trackpoint	N35.59895 W97.65632	6/29/2011 2:34:09 PM 	361 m			362 m	0:00:16	81 kph	180° true
+Trackpoint	N35.59855 W97.65632	6/29/2011 2:34:11 PM 	362 m			44 m	0:00:02	80 kph	180° true
+Trackpoint	N35.59576 W97.65631	6/29/2011 2:34:26 PM 	363 m			311 m	0:00:15	75 kph	180° true
+Trackpoint	N35.59529 W97.65632	6/29/2011 2:34:30 PM 	362 m			52 m	0:00:04	47 kph	181° true
+Trackpoint	N35.59517 W97.65636	6/29/2011 2:34:32 PM 	361 m			14 m	0:00:02	25 kph	196° true
+Trackpoint	N35.59511 W97.65655	6/29/2011 2:34:37 PM 	360 m			18 m	0:00:05	13 kph	248° true
+Trackpoint	N35.59511 W97.65654	6/29/2011 2:34:42 PM 	360 m			0 m	0:00:05	0.4 kph	121° true
+Trackpoint	N35.59513 W97.65653	6/29/2011 2:34:46 PM 	360 m			3 m	0:00:04	3 kph	17° true
+Trackpoint	N35.59512 W97.65643	6/29/2011 2:34:54 PM 	360 m			10 m	0:00:08	4 kph	100° true
+Trackpoint	N35.59514 W97.65636	6/29/2011 2:34:59 PM 	360 m			7 m	0:00:05	5 kph	63° true
+Trackpoint	N35.59550 W97.65624	6/29/2011 2:35:04 PM 	361 m			41 m	0:00:05	29 kph	16° true
+Trackpoint	N35.59649 W97.65624	6/29/2011 2:35:14 PM 	359 m			111 m	0:00:10	40 kph	0° true
+Trackpoint	N35.59664 W97.65625	6/29/2011 2:35:20 PM 	359 m			17 m	0:00:06	10 kph	359° true
+Trackpoint	N35.59665 W97.65625	6/29/2011 2:35:35 PM 	359 m			0 m	0:00:15	0.1 kph	4° true
+Trackpoint	N35.59667 W97.65624	6/29/2011 2:37:08 PM 	358 m			3 m	0:01:33	0.1 kph	15° true
+Trackpoint	N35.59676 W97.65624	6/29/2011 2:37:13 PM 	359 m			10 m	0:00:05	7 kph	358° true
+Trackpoint	N35.59752 W97.65626	6/29/2011 2:37:20 PM 	361 m			84 m	0:00:07	43 kph	359° true
+Trackpoint	N35.59817 W97.65626	6/29/2011 2:37:24 PM 	362 m			73 m	0:00:04	66 kph	0° true
+Trackpoint	N35.60037 W97.65627	6/29/2011 2:37:35 PM 	358 m			244 m	0:00:11	80 kph	0° true
+Trackpoint	N35.60058 W97.65627	6/29/2011 2:37:36 PM 	358 m			24 m	0:00:01	85 kph	0° true
+Trackpoint	N35.60503 W97.65630	6/29/2011 2:37:58 PM 	355 m			495 m	0:00:22	81 kph	0° true
+Trackpoint	N35.60520 W97.65630	6/29/2011 2:37:59 PM 	355 m			19 m	0:00:01	70 kph	0° true
+Trackpoint	N35.60623 W97.65631	6/29/2011 2:38:05 PM 	352 m			114 m	0:00:06	68 kph	0° true
+Trackpoint	N35.60639 W97.65631	6/29/2011 2:38:06 PM 	352 m			19 m	0:00:01	68 kph	359° true
+Trackpoint	N35.60757 W97.65633	6/29/2011 2:38:13 PM 	353 m			131 m	0:00:07	68 kph	359° true
+Trackpoint	N35.60808 W97.65633	6/29/2011 2:38:16 PM 	356 m			56 m	0:00:03	68 kph	359° true
+Trackpoint	N35.60842 W97.65634	6/29/2011 2:38:18 PM 	357 m			38 m	0:00:02	68 kph	359° true
+Trackpoint	N35.60934 W97.65630	6/29/2011 2:38:31 PM 	356 m			102 m	0:00:13	28 kph	2° true
+Trackpoint	N35.61013 W97.65631	6/29/2011 2:38:38 PM 	357 m			88 m	0:00:07	45 kph	359° true
+Trackpoint	N35.61051 W97.65630	6/29/2011 2:38:44 PM 	355 m			43 m	0:00:06	26 kph	1° true
+Trackpoint	N35.61098 W97.65630	6/29/2011 2:38:50 PM 	356 m			53 m	0:00:06	32 kph	0° true
+Trackpoint	N35.61205 W97.65630	6/29/2011 2:38:57 PM 	355 m			119 m	0:00:07	61 kph	0° true
+Trackpoint	N35.61326 W97.65629	6/29/2011 2:39:03 PM 	351 m			134 m	0:00:06	80 kph	0° true
+Trackpoint	N35.61347 W97.65629	6/29/2011 2:39:04 PM 	351 m			24 m	0:00:01	86 kph	1° true
+Trackpoint	N35.61433 W97.65629	6/29/2011 2:39:08 PM 	355 m			96 m	0:00:04	86 kph	0° true
+Trackpoint	N35.61455 W97.65629	6/29/2011 2:39:09 PM 	355 m			24 m	0:00:01	86 kph	0° true
+Trackpoint	N35.61816 W97.65630	6/29/2011 2:39:25 PM 	356 m			402 m	0:00:16	90 kph	0° true
+Trackpoint	N35.62235 W97.65631	6/29/2011 2:39:44 PM 	351 m			467 m	0:00:19	88 kph	0° true
+Trackpoint	N35.62277 W97.65631	6/29/2011 2:39:46 PM 	351 m			47 m	0:00:02	85 kph	0° true
+Trackpoint	N35.62315 W97.65631	6/29/2011 2:39:48 PM 	349 m			43 m	0:00:02	77 kph	0° true
+Trackpoint	N35.62354 W97.65631	6/29/2011 2:39:51 PM 	346 m			44 m	0:00:03	52 kph	0° true
+Trackpoint	N35.62361 W97.65631	6/29/2011 2:39:52 PM 	346 m			8 m	0:00:01	28 kph	359° true
+Trackpoint	N35.62370 W97.65629	6/29/2011 2:39:55 PM 	344 m			10 m	0:00:03	12 kph	10° true
+Trackpoint	N35.62374 W97.65573	6/29/2011 2:40:01 PM 	346 m			51 m	0:00:06	31 kph	86° true
+Trackpoint	N35.62373 W97.65461	6/29/2011 2:40:08 PM 	350 m			101 m	0:00:07	52 kph	91° true
+Trackpoint	N35.62373 W97.65443	6/29/2011 2:40:09 PM 	350 m			17 m	0:00:01	60 kph	90° true
+Trackpoint	N35.62372 W97.65403	6/29/2011 2:40:11 PM 	351 m			35 m	0:00:02	64 kph	90° true
+Trackpoint	N35.62371 W97.65259	6/29/2011 2:40:18 PM 	350 m			131 m	0:00:07	67 kph	91° true
+Trackpoint	N35.62371 W97.65236	6/29/2011 2:40:19 PM 	347 m			20 m	0:00:01	73 kph	91° true
+Trackpoint	N35.62371 W97.65213	6/29/2011 2:40:20 PM 	347 m			21 m	0:00:01	75 kph	90° true
+Trackpoint	N35.62370 W97.65141	6/29/2011 2:40:23 PM 	345 m			66 m	0:00:03	79 kph	90° true
+Trackpoint	N35.62368 W97.64868	6/29/2011 2:40:34 PM 	346 m			247 m	0:00:11	81 kph	90° true
+Trackpoint	N35.62367 W97.64744	6/29/2011 2:40:39 PM 	348 m			112 m	0:00:05	81 kph	91° true
+Trackpoint	N35.62368 W97.64537	6/29/2011 2:40:48 PM 	347 m			188 m	0:00:09	75 kph	90° true
+Trackpoint	N35.62367 W97.64336	6/29/2011 2:40:57 PM 	346 m			182 m	0:00:09	73 kph	90° true
+Trackpoint	N35.62367 W97.64246	6/29/2011 2:41:01 PM 	350 m			81 m	0:00:04	73 kph	90° true
+Trackpoint	N35.62367 W97.64179	6/29/2011 2:41:04 PM 	351 m			61 m	0:00:03	73 kph	90° true
+Trackpoint	N35.62365 W97.63923	6/29/2011 2:41:17 PM 	351 m			232 m	0:00:13	64 kph	90° true
+Trackpoint	N35.62365 W97.63869	6/29/2011 2:41:23 PM 	349 m			49 m	0:00:06	29 kph	91° true
+Trackpoint	N35.62365 W97.63832	6/29/2011 2:41:29 PM 	349 m			33 m	0:00:06	20 kph	89° true
+Trackpoint	N35.62366 W97.63726	6/29/2011 2:41:36 PM 	351 m			96 m	0:00:07	49 kph	90° true
+Trackpoint	N35.62366 W97.63482	6/29/2011 2:41:48 PM 	353 m			221 m	0:00:12	66 kph	90° true
+Trackpoint	N35.62366 W97.63239	6/29/2011 2:41:59 PM 	356 m			220 m	0:00:11	72 kph	90° true
+Trackpoint	N35.62368 W97.62598	6/29/2011 2:42:26 PM 	353 m			580 m	0:00:27	77 kph	90° true
+Trackpoint	N35.62368 W97.62423	6/29/2011 2:42:33 PM 	349 m			159 m	0:00:07	82 kph	90° true
+Trackpoint	N35.62368 W97.62398	6/29/2011 2:42:34 PM 	349 m			23 m	0:00:01	83 kph	90° true
+Trackpoint	N35.62368 W97.62273	6/29/2011 2:42:39 PM 	347 m			112 m	0:00:05	81 kph	90° true
+Trackpoint	N35.62367 W97.62132	6/29/2011 2:42:46 PM 	346 m			128 m	0:00:07	66 kph	90° true
+Trackpoint	N35.62367 W97.62092	6/29/2011 2:42:51 PM 	346 m			36 m	0:00:05	26 kph	91° true
+Trackpoint	N35.62366 W97.62067	6/29/2011 2:42:58 PM 	347 m			23 m	0:00:07	12 kph	91° true
+Trackpoint	N35.62366 W97.61963	6/29/2011 2:43:05 PM 	348 m			94 m	0:00:07	48 kph	90° true
+Trackpoint	N35.62366 W97.61766	6/29/2011 2:43:14 PM 	347 m			178 m	0:00:09	71 kph	90° true
+Trackpoint	N35.62366 W97.61567	6/29/2011 2:43:22 PM 	342 m			181 m	0:00:08	81 kph	90° true
+Trackpoint	N35.62366 W97.61541	6/29/2011 2:43:23 PM 	342 m			23 m	0:00:01	84 kph	90° true
+Trackpoint	N35.62367 W97.60825	6/29/2011 2:43:51 PM 	339 m			648 m	0:00:28	83 kph	90° true
+Trackpoint	N35.62367 W97.60724	6/29/2011 2:43:55 PM 	337 m			91 m	0:00:04	82 kph	90° true
+Trackpoint	N35.62367 W97.60172	6/29/2011 2:44:17 PM 	336 m			499 m	0:00:22	82 kph	90° true
+Trackpoint	N35.62368 W97.59823	6/29/2011 2:44:31 PM 	339 m			316 m	0:00:14	81 kph	90° true
+Trackpoint	N35.62368 W97.59728	6/29/2011 2:44:35 PM 	341 m			86 m	0:00:04	77 kph	90° true
+Trackpoint	N35.62368 W97.59537	6/29/2011 2:44:43 PM 	344 m			173 m	0:00:08	78 kph	90° true
+Trackpoint	N35.62368 W97.59513	6/29/2011 2:44:44 PM 	344 m			22 m	0:00:01	78 kph	90° true
+Trackpoint	N35.62368 W97.58871	6/29/2011 2:45:11 PM 	346 m			581 m	0:00:27	77 kph	90° true
+Trackpoint	N35.62368 W97.58611	6/29/2011 2:45:23 PM 	345 m			235 m	0:00:12	71 kph	90° true
+Trackpoint	N35.62367 W97.58594	6/29/2011 2:45:25 PM 	343 m			16 m	0:00:02	29 kph	91° true
+Trackpoint	N35.62367 W97.58586	6/29/2011 2:45:27 PM 	342 m			7 m	0:00:02	13 kph	92° true
+Trackpoint	N35.62367 W97.58529	6/29/2011 2:45:35 PM 	342 m			52 m	0:00:08	23 kph	91° true
+Trackpoint	N35.62366 W97.58520	6/29/2011 2:45:36 PM 	341 m			8 m	0:00:01	27 kph	91° true
+Trackpoint	N35.62338 W97.58503	6/29/2011 2:45:42 PM 	341 m			35 m	0:00:06	21 kph	154° true
+Trackpoint	N35.62222 W97.58507	6/29/2011 2:45:51 PM 	344 m			129 m	0:00:09	52 kph	181° true
+Trackpoint	N35.62124 W97.58507	6/29/2011 2:45:57 PM 	348 m			109 m	0:00:06	66 kph	180° true
+Trackpoint	N35.62107 W97.58507	6/29/2011 2:45:58 PM 	348 m			19 m	0:00:01	67 kph	181° true
+Trackpoint	N35.62033 W97.58508	6/29/2011 2:46:02 PM 	351 m			83 m	0:00:04	74 kph	181° true
+Trackpoint	N35.61976 W97.58509	6/29/2011 2:46:05 PM 	353 m			63 m	0:00:03	76 kph	181° true
+Trackpoint	N35.61829 W97.58513	6/29/2011 2:46:12 PM 	356 m			164 m	0:00:07	85 kph	181° true
+Trackpoint	N35.61503 W97.58520	6/29/2011 2:46:26 PM 	354 m			362 m	0:00:14	93 kph	181° true
+Trackpoint	N35.61188 W97.58525	6/29/2011 2:46:38 PM 	351 m			351 m	0:00:12	105 kph	181° true
+Trackpoint	N35.61080 W97.58525	6/29/2011 2:46:42 PM 	348 m			120 m	0:00:04	108 kph	180° true
+Trackpoint	N35.60970 W97.58524	6/29/2011 2:46:46 PM 	347 m			122 m	0:00:04	110 kph	180° true
+Trackpoint	N35.60556 W97.58522	6/29/2011 2:47:01 PM 	351 m			461 m	0:00:15	111 kph	180° true
+Trackpoint	N35.60501 W97.58521	6/29/2011 2:47:03 PM 	351 m			61 m	0:00:02	109 kph	179° true
+Trackpoint	N35.60171 W97.58522	6/29/2011 2:47:15 PM 	355 m			367 m	0:00:12	110 kph	180° true
+Trackpoint	N35.60059 W97.58522	6/29/2011 2:47:19 PM 	358 m			125 m	0:00:04	113 kph	180° true
+Trackpoint	N35.60002 W97.58523	6/29/2011 2:47:21 PM 	360 m			63 m	0:00:02	113 kph	181° true
+Trackpoint	N35.59890 W97.58524	6/29/2011 2:47:25 PM 	364 m			125 m	0:00:04	113 kph	180° true
+Trackpoint	N35.59862 W97.58523	6/29/2011 2:47:26 PM 	364 m			31 m	0:00:01	112 kph	180° true
+Trackpoint	N35.59806 W97.58524	6/29/2011 2:47:28 PM 	365 m			62 m	0:00:02	112 kph	180° true
+Trackpoint	N35.59749 W97.58524	6/29/2011 2:47:30 PM 	366 m			64 m	0:00:02	115 kph	180° true
+Trackpoint	N35.59289 W97.58523	6/29/2011 2:47:46 PM 	366 m			511 m	0:00:16	115 kph	180° true
+Trackpoint	N35.59204 W97.58513	6/29/2011 2:47:49 PM 	369 m			95 m	0:00:03	114 kph	174° true
+Trackpoint	N35.59091 W97.58493	6/29/2011 2:47:53 PM 	371 m			128 m	0:00:04	115 kph	172° true
+Trackpoint	N35.58698 W97.58388	6/29/2011 2:48:07 PM 	373 m			448 m	0:00:14	115 kph	168° true
+Trackpoint	N35.58320 W97.58219	6/29/2011 2:48:21 PM 	374 m			448 m	0:00:14	115 kph	160° true
+Trackpoint	N35.58010 W97.58033	6/29/2011 2:48:33 PM 	371 m			384 m	0:00:12	115 kph	154° true
+Trackpoint	N35.57836 W97.57918	6/29/2011 2:48:40 PM 	372 m			219 m	0:00:07	113 kph	152° true
+Trackpoint	N35.57591 W97.57789	6/29/2011 2:48:50 PM 	375 m			298 m	0:00:10	107 kph	157° true
+Trackpoint	N35.57290 W97.57690	6/29/2011 2:49:02 PM 	377 m			346 m	0:00:12	104 kph	165° true
+Trackpoint	N35.56958 W97.57606	6/29/2011 2:49:14 PM 	377 m			378 m	0:00:12	113 kph	168° true
+Trackpoint	N35.56404 W97.57460	6/29/2011 2:49:33 PM 	379 m			630 m	0:00:19	119 kph	168° true
+Trackpoint	N35.56294 W97.57413	6/29/2011 2:49:37 PM 	378 m			130 m	0:00:04	117 kph	161° true
+Trackpoint	N35.56084 W97.57324	6/29/2011 2:49:45 PM 	377 m			248 m	0:00:08	111 kph	161° true
+Trackpoint	N35.55858 W97.57310	6/29/2011 2:49:53 PM 	379 m			252 m	0:00:08	113 kph	177° true
+Trackpoint	N35.55830 W97.57314	6/29/2011 2:49:54 PM 	379 m			32 m	0:00:01	113 kph	187° true
+Trackpoint	N35.55775 W97.57327	6/29/2011 2:49:56 PM 	380 m			63 m	0:00:02	113 kph	191° true
+Trackpoint	N35.55721 W97.57343	6/29/2011 2:49:58 PM 	378 m			62 m	0:00:02	112 kph	194° true
+Trackpoint	N35.55541 W97.57439	6/29/2011 2:50:05 PM 	377 m			218 m	0:00:07	112 kph	204° true
+Trackpoint	N35.55328 W97.57606	6/29/2011 2:50:14 PM 	378 m			281 m	0:00:09	113 kph	212° true
+Trackpoint	N35.55149 W97.57682	6/29/2011 2:50:21 PM 	377 m			211 m	0:00:07	109 kph	199° true
+Trackpoint	N35.54957 W97.57696	6/29/2011 2:50:28 PM 	376 m			213 m	0:00:07	110 kph	184° true
+Trackpoint	N35.54769 W97.57648	6/29/2011 2:50:35 PM 	376 m			214 m	0:00:07	110 kph	168° true
+Trackpoint	N35.54692 W97.57615	6/29/2011 2:50:38 PM 	378 m			91 m	0:00:03	109 kph	161° true
+Trackpoint	N35.54430 W97.57538	6/29/2011 2:50:48 PM 	378 m			300 m	0:00:10	108 kph	167° true
+Trackpoint	N35.54268 W97.57558	6/29/2011 2:50:54 PM 	380 m			182 m	0:00:06	109 kph	186° true
+Trackpoint	N35.54115 W97.57628	6/29/2011 2:51:00 PM 	383 m			181 m	0:00:06	108 kph	200° true
+Trackpoint	N35.54091 W97.57642	6/29/2011 2:51:01 PM 	383 m			30 m	0:00:01	109 kph	206° true
+Trackpoint	N35.53944 W97.57727	6/29/2011 2:51:07 PM 	387 m			180 m	0:00:06	108 kph	205° true
+Trackpoint	N35.53920 W97.57741	6/29/2011 2:51:08 PM 	387 m			30 m	0:00:01	109 kph	205° true
+Trackpoint	N35.53598 W97.57910	6/29/2011 2:51:21 PM 	390 m			389 m	0:00:13	108 kph	203° true
+Trackpoint	N35.53385 W97.57948	6/29/2011 2:51:29 PM 	392 m			240 m	0:00:08	108 kph	188° true
+Trackpoint	N35.53141 W97.57940	6/29/2011 2:51:38 PM 	392 m			272 m	0:00:09	109 kph	178° true
+Trackpoint	N35.53032 W97.57928	6/29/2011 2:51:42 PM 	390 m			121 m	0:00:04	109 kph	175° true
+Trackpoint	N35.52951 W97.57915	6/29/2011 2:51:45 PM 	390 m			91 m	0:00:03	109 kph	173° true
+Trackpoint	N35.52626 W97.57793	6/29/2011 2:51:57 PM 	387 m			378 m	0:00:12	113 kph	163° true
+Trackpoint	N35.52575 W97.57768	6/29/2011 2:51:59 PM 	386 m			61 m	0:00:02	110 kph	158° true
+Trackpoint	N35.52371 W97.57707	6/29/2011 2:52:07 PM 	383 m			234 m	0:00:08	105 kph	166° true
+Trackpoint	N35.52346 W97.57704	6/29/2011 2:52:08 PM 	383 m			28 m	0:00:01	101 kph	174° true
+Trackpoint	N35.52243 W97.57694	6/29/2011 2:52:12 PM 	384 m			115 m	0:00:04	103 kph	176° true
+Trackpoint	N35.51827 W97.57700	6/29/2011 2:52:28 PM 	383 m			463 m	0:00:16	104 kph	181° true
+Trackpoint	N35.51622 W97.57698	6/29/2011 2:52:37 PM 	381 m			228 m	0:00:09	91 kph	180° true
+Trackpoint	N35.51448 W97.57697	6/29/2011 2:52:45 PM 	380 m			194 m	0:00:08	87 kph	180° true
+Trackpoint	N35.51255 W97.57696	6/29/2011 2:52:54 PM 	377 m			215 m	0:00:09	86 kph	180° true
+Trackpoint	N35.51190 W97.57696	6/29/2011 2:52:57 PM 	376 m			71 m	0:00:03	86 kph	180° true
+Trackpoint	N35.51148 W97.57691	6/29/2011 2:52:59 PM 	375 m			47 m	0:00:02	85 kph	175° true
+Trackpoint	N35.51107 W97.57682	6/29/2011 2:53:01 PM 	373 m			46 m	0:00:02	84 kph	170° true
+Trackpoint	N35.51067 W97.57673	6/29/2011 2:53:03 PM 	371 m			46 m	0:00:02	83 kph	170° true
+Trackpoint	N35.51011 W97.57704	6/29/2011 2:53:08 PM 	369 m			68 m	0:00:05	49 kph	205° true
+Trackpoint	N35.51020 W97.57753	6/29/2011 2:53:12 PM 	371 m			45 m	0:00:04	41 kph	282° true
+Trackpoint	N35.51058 W97.57772	6/29/2011 2:53:17 PM 	372 m			46 m	0:00:05	33 kph	339° true
+Trackpoint	N35.51075 W97.57765	6/29/2011 2:53:19 PM 	373 m			20 m	0:00:02	35 kph	18° true
+Trackpoint	N35.51096 W97.57740	6/29/2011 2:53:22 PM 	375 m			32 m	0:00:03	38 kph	44° true
+Trackpoint	N35.51101 W97.57694	6/29/2011 2:53:25 PM 	376 m			42 m	0:00:03	50 kph	82° true
+Trackpoint	N35.51107 W97.57523	6/29/2011 2:53:33 PM 	376 m			155 m	0:00:08	70 kph	88° true
+Trackpoint	N35.51147 W97.57292	6/29/2011 2:53:42 PM 	378 m			215 m	0:00:09	86 kph	78° true
+Trackpoint	N35.51134 W97.57051	6/29/2011 2:53:51 PM 	378 m			219 m	0:00:09	87 kph	94° true
+Trackpoint	N35.51120 W97.56845	6/29/2011 2:54:00 PM 	377 m			187 m	0:00:09	75 kph	95° true
+Trackpoint	N35.51114 W97.56777	6/29/2011 2:54:03 PM 	375 m			62 m	0:00:03	74 kph	96° true
+Trackpoint	N35.51102 W97.56643	6/29/2011 2:54:09 PM 	373 m			122 m	0:00:06	73 kph	97° true
+Trackpoint	N35.51101 W97.56596	6/29/2011 2:54:12 PM 	372 m			43 m	0:00:03	51 kph	91° true
+Trackpoint	N35.51081 W97.56566	6/29/2011 2:54:17 PM 	372 m			36 m	0:00:05	26 kph	130° true
+Trackpoint	N35.51020 W97.56563	6/29/2011 2:54:24 PM 	371 m			67 m	0:00:07	35 kph	178° true
+Trackpoint	N35.51020 W97.56565	6/29/2011 2:54:35 PM 	371 m			2 m	0:00:11	0.7 kph	254° true
+
+Track	ACTIVE LOG 002	3/17/2013 12:11:30 PM 	0:03:11	69 m	1.3 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.48489 W109.02495	3/17/2013 12:11:30 PM 	1781 m
+Trackpoint	N31.48489 W109.02495	3/17/2013 12:11:31 PM 	1782 m			0 m	0:00:01	0.7 kph	348° true
+Trackpoint	N31.48489 W109.02495	3/17/2013 12:11:32 PM 	1782 m			0 m	0:00:01	0.7 kph	347° true
+Trackpoint	N31.48492 W109.02498	3/17/2013 12:11:46 PM 	1781 m			4 m	0:00:14	1.0 kph	314° true
+Trackpoint	N31.48498 W109.02498	3/17/2013 12:12:06 PM 	1781 m			8 m	0:00:20	1.4 kph	357° true
+Trackpoint	N31.48501 W109.02497	3/17/2013 12:12:20 PM 	1782 m			3 m	0:00:14	0.8 kph	21° true
+Trackpoint	N31.48502 W109.02495	3/17/2013 12:12:31 PM 	1783 m			2 m	0:00:11	0.8 kph	65° true
+Trackpoint	N31.48504 W109.02491	3/17/2013 12:12:43 PM 	1783 m			5 m	0:00:12	1.4 kph	59° true
+Trackpoint	N31.48502 W109.02485	3/17/2013 12:12:55 PM 	1783 m			6 m	0:00:12	2 kph	107° true
+Trackpoint	N31.48502 W109.02481	3/17/2013 12:13:09 PM 	1783 m			4 m	0:00:14	1.0 kph	99° true
+Trackpoint	N31.48499 W109.02479	3/17/2013 12:13:18 PM 	1782 m			4 m	0:00:09	2 kph	153° true
+Trackpoint	N31.48493 W109.02480	3/17/2013 12:13:31 PM 	1781 m			6 m	0:00:13	2 kph	187° true
+Trackpoint	N31.48490 W109.02484	3/17/2013 12:13:41 PM 	1782 m			5 m	0:00:10	2 kph	231° true
+Trackpoint	N31.48489 W109.02485	3/17/2013 12:13:52 PM 	1782 m			2 m	0:00:11	0.7 kph	222° true
+Trackpoint	N31.48488 W109.02491	3/17/2013 12:14:09 PM 	1783 m			6 m	0:00:17	1.3 kph	256° true
+Trackpoint	N31.48490 W109.02495	3/17/2013 12:14:20 PM 	1783 m			4 m	0:00:11	1.3 kph	305° true
+Trackpoint	N31.48494 W109.02498	3/17/2013 12:14:31 PM 	1783 m			6 m	0:00:11	2 kph	322° true
+Trackpoint	N31.48498 W109.02497	3/17/2013 12:14:41 PM 	1782 m			5 m	0:00:10	2 kph	15° true
+
+Track	ACTIVE LOG 003	3/17/2013 3:41:53 PM 	0:01:09	17 m	0.9 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.48329 W109.02205	3/17/2013 3:41:53 PM 	1784 m
+Trackpoint	N31.48329 W109.02206	3/17/2013 3:41:54 PM 	1784 m			0 m	0:00:01	0.6 kph	218° true
+Trackpoint	N31.48328 W109.02206	3/17/2013 3:41:55 PM 	1784 m			0 m	0:00:01	0.5 kph	218° true
+Trackpoint	N31.48327 W109.02210	3/17/2013 3:42:22 PM 	1782 m			4 m	0:00:27	0.6 kph	254° true
+Trackpoint	N31.48327 W109.02211	3/17/2013 3:42:23 PM 	1781 m			1 m	0:00:01	3 kph	264° true
+Trackpoint	N31.48327 W109.02212	3/17/2013 3:42:26 PM 	1780 m			1 m	0:00:03	1.4 kph	264° true
+Trackpoint	N31.48329 W109.02216	3/17/2013 3:42:35 PM 	1778 m			4 m	0:00:09	2 kph	307° true
+Trackpoint	N31.48330 W109.02215	3/17/2013 3:42:43 PM 	1784 m			1 m	0:00:08	0.5 kph	40° true
+Trackpoint	N31.48330 W109.02215	3/17/2013 3:42:44 PM 	1784 m			0 m	0:00:01	0.7 kph	52° true
+Trackpoint	N31.48327 W109.02212	3/17/2013 3:42:57 PM 	1785 m			4 m	0:00:13	1.1 kph	145° true
+Trackpoint	N31.48327 W109.02211	3/17/2013 3:43:02 PM 	1785 m			1 m	0:00:05	0.9 kph	120° true
+
+Track	ACTIVE LOG 004	3/18/2013 2:47:21 PM 	0:06:47	168 m	1.5 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.50328 W109.01719	3/18/2013 2:47:21 PM 	1715 m
+Trackpoint	N31.50328 W109.01719	3/18/2013 2:47:22 PM 	1715 m			0 m	0:00:01	0.6 kph	234° true
+Trackpoint	N31.50328 W109.01719	3/18/2013 2:47:23 PM 	1715 m			0 m	0:00:01	0.5 kph	233° true
+Trackpoint	N31.50330 W109.01716	3/18/2013 2:47:42 PM 	1715 m			4 m	0:00:19	0.7 kph	54° true
+Trackpoint	N31.50336 W109.01710	3/18/2013 2:48:01 PM 	1715 m			9 m	0:00:19	2 kph	35° true
+Trackpoint	N31.50335 W109.01715	3/18/2013 2:48:10 PM 	1715 m			5 m	0:00:09	2 kph	254° true
+Trackpoint	N31.50334 W109.01722	3/18/2013 2:48:25 PM 	1714 m			6 m	0:00:15	2 kph	255° true
+Trackpoint	N31.50331 W109.01725	3/18/2013 2:48:35 PM 	1714 m			4 m	0:00:10	2 kph	221° true
+Trackpoint	N31.50329 W109.01722	3/18/2013 2:48:50 PM 	1716 m			3 m	0:00:15	0.7 kph	125° true
+Trackpoint	N31.50323 W109.01732	3/18/2013 2:49:03 PM 	1716 m			11 m	0:00:13	3 kph	234° true
+Trackpoint	N31.50321 W109.01735	3/18/2013 2:49:16 PM 	1715 m			4 m	0:00:13	1.2 kph	231° true
+Trackpoint	N31.50317 W109.01740	3/18/2013 2:49:29 PM 	1715 m			6 m	0:00:13	2 kph	222° true
+Trackpoint	N31.50311 W109.01746	3/18/2013 2:49:44 PM 	1716 m			8 m	0:00:15	2 kph	226° true
+Trackpoint	N31.50309 W109.01751	3/18/2013 2:49:52 PM 	1716 m			6 m	0:00:08	3 kph	237° true
+Trackpoint	N31.50305 W109.01756	3/18/2013 2:50:06 PM 	1715 m			6 m	0:00:14	2 kph	226° true
+Trackpoint	N31.50300 W109.01761	3/18/2013 2:50:16 PM 	1716 m			7 m	0:00:10	3 kph	221° true
+Trackpoint	N31.50295 W109.01765	3/18/2013 2:50:30 PM 	1717 m			7 m	0:00:14	2 kph	219° true
+Trackpoint	N31.50292 W109.01771	3/18/2013 2:50:42 PM 	1717 m			6 m	0:00:12	2 kph	243° true
+Trackpoint	N31.50287 W109.01775	3/18/2013 2:50:55 PM 	1717 m			7 m	0:00:13	2 kph	213° true
+Trackpoint	N31.50287 W109.01774	3/18/2013 2:51:13 PM 	1717 m			1 m	0:00:18	0.3 kph	98° true
+Trackpoint	N31.50293 W109.01767	3/18/2013 2:51:46 PM 	1717 m			9 m	0:00:33	1.0 kph	45° true
+Trackpoint	N31.50296 W109.01764	3/18/2013 2:52:03 PM 	1715 m			4 m	0:00:17	0.9 kph	42° true
+Trackpoint	N31.50300 W109.01759	3/18/2013 2:52:15 PM 	1716 m			7 m	0:00:12	2 kph	43° true
+Trackpoint	N31.50304 W109.01751	3/18/2013 2:52:24 PM 	1716 m			8 m	0:00:09	3 kph	58° true
+Trackpoint	N31.50307 W109.01749	3/18/2013 2:52:32 PM 	1715 m			4 m	0:00:08	2 kph	35° true
+Trackpoint	N31.50310 W109.01746	3/18/2013 2:52:41 PM 	1714 m			4 m	0:00:09	2 kph	38° true
+Trackpoint	N31.50314 W109.01741	3/18/2013 2:52:50 PM 	1714 m			6 m	0:00:09	3 kph	54° true
+Trackpoint	N31.50317 W109.01735	3/18/2013 2:52:59 PM 	1714 m			7 m	0:00:09	3 kph	55° true
+Trackpoint	N31.50319 W109.01730	3/18/2013 2:53:04 PM 	1714 m			5 m	0:00:05	3 kph	68° true
+Trackpoint	N31.50323 W109.01723	3/18/2013 2:53:20 PM 	1714 m			9 m	0:00:16	2 kph	58° true
+Trackpoint	N31.50323 W109.01724	3/18/2013 2:53:41 PM 	1714 m			1 m	0:00:21	0.2 kph	254° true
+Trackpoint	N31.50323 W109.01724	3/18/2013 2:54:08 PM 	1714 m			0 m	0:00:27	0.0 kph	304° true
+
+Track	ACTIVE LOG 005	3/18/2013 2:58:06 PM 	0:05:53	161 m	2 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.50366 W109.01700	3/18/2013 2:58:06 PM 	1715 m
+Trackpoint	N31.50366 W109.01700	3/18/2013 2:58:07 PM 	1715 m			0 m	0:00:01	0.6 kph	191° true
+Trackpoint	N31.50365 W109.01700	3/18/2013 2:58:08 PM 	1715 m			0 m	0:00:01	0.5 kph	190° true
+Trackpoint	N31.50367 W109.01694	3/18/2013 2:58:19 PM 	1715 m			6 m	0:00:11	2 kph	72° true
+Trackpoint	N31.50371 W109.01690	3/18/2013 2:58:31 PM 	1714 m			6 m	0:00:12	2 kph	41° true
+Trackpoint	N31.50371 W109.01682	3/18/2013 2:58:45 PM 	1714 m			7 m	0:00:14	2 kph	91° true
+Trackpoint	N31.50372 W109.01684	3/18/2013 2:59:07 PM 	1714 m			2 m	0:00:22	0.4 kph	309° true
+Trackpoint	N31.50375 W109.01682	3/18/2013 2:59:17 PM 	1714 m			4 m	0:00:10	1.3 kph	39° true
+Trackpoint	N31.50379 W109.01682	3/18/2013 2:59:28 PM 	1714 m			5 m	0:00:11	2 kph	355° true
+Trackpoint	N31.50383 W109.01675	3/18/2013 2:59:44 PM 	1714 m			8 m	0:00:16	2 kph	56° true
+Trackpoint	N31.50385 W109.01671	3/18/2013 2:59:54 PM 	1714 m			5 m	0:00:10	2 kph	64° true
+Trackpoint	N31.50386 W109.01666	3/18/2013 3:00:03 PM 	1714 m			5 m	0:00:09	2 kph	79° true
+Trackpoint	N31.50387 W109.01658	3/18/2013 3:00:17 PM 	1714 m			8 m	0:00:14	2 kph	82° true
+Trackpoint	N31.50388 W109.01651	3/18/2013 3:00:34 PM 	1714 m			7 m	0:00:17	1.4 kph	80° true
+Trackpoint	N31.50391 W109.01653	3/18/2013 3:00:53 PM 	1714 m			5 m	0:00:19	0.9 kph	337° true
+Trackpoint	N31.50396 W109.01653	3/18/2013 3:01:04 PM 	1715 m			5 m	0:00:11	2 kph	359° true
+Trackpoint	N31.50393 W109.01656	3/18/2013 3:01:15 PM 	1714 m			5 m	0:00:11	1.5 kph	226° true
+Trackpoint	N31.50394 W109.01658	3/18/2013 3:01:20 PM 	1714 m			2 m	0:00:05	1.5 kph	291° true
+Trackpoint	N31.50390 W109.01662	3/18/2013 3:01:27 PM 	1713 m			5 m	0:00:07	3 kph	219° true
+Trackpoint	N31.50391 W109.01666	3/18/2013 3:01:34 PM 	1713 m			4 m	0:00:07	2 kph	286° true
+Trackpoint	N31.50390 W109.01674	3/18/2013 3:01:44 PM 	1713 m			7 m	0:00:10	3 kph	257° true
+Trackpoint	N31.50386 W109.01678	3/18/2013 3:01:55 PM 	1715 m			6 m	0:00:11	2 kph	222° true
+Trackpoint	N31.50385 W109.01681	3/18/2013 3:02:08 PM 	1714 m			4 m	0:00:13	1.0 kph	256° true
+Trackpoint	N31.50383 W109.01684	3/18/2013 3:02:20 PM 	1714 m			3 m	0:00:12	1.0 kph	220° true
+Trackpoint	N31.50377 W109.01684	3/18/2013 3:02:32 PM 	1714 m			6 m	0:00:12	2 kph	184° true
+Trackpoint	N31.50379 W109.01689	3/18/2013 3:02:41 PM 	1714 m			5 m	0:00:09	2 kph	292° true
+Trackpoint	N31.50375 W109.01691	3/18/2013 3:02:54 PM 	1714 m			5 m	0:00:13	1.4 kph	205° true
+Trackpoint	N31.50367 W109.01692	3/18/2013 3:03:04 PM 	1715 m			9 m	0:00:10	3 kph	187° true
+Trackpoint	N31.50359 W109.01698	3/18/2013 3:03:16 PM 	1715 m			10 m	0:00:12	3 kph	213° true
+Trackpoint	N31.50349 W109.01706	3/18/2013 3:03:33 PM 	1715 m			14 m	0:00:17	3 kph	216° true
+Trackpoint	N31.50345 W109.01705	3/18/2013 3:03:42 PM 	1714 m			5 m	0:00:09	2 kph	161° true
+Trackpoint	N31.50345 W109.01704	3/18/2013 3:03:59 PM 	1715 m			1 m	0:00:17	0.1 kph	140° true
+
+Track	ACTIVE LOG 006	3/19/2013 12:54:10 PM 	0:11:49	387 m	2 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.49041 W108.94454	3/19/2013 12:54:10 PM 	1625 m
+Trackpoint	N31.49041 W108.94454	3/19/2013 12:54:11 PM 	1625 m			0 m	0:00:01	0.2 kph	65° true
+Trackpoint	N31.49041 W108.94454	3/19/2013 12:54:12 PM 	1625 m			0 m	0:00:01	0.1 kph	52° true
+Trackpoint	N31.49036 W108.94454	3/19/2013 12:54:24 PM 	1624 m			6 m	0:00:12	2 kph	180° true
+Trackpoint	N31.49024 W108.94456	3/19/2013 12:54:43 PM 	1624 m			13 m	0:00:19	2 kph	187° true
+Trackpoint	N31.49011 W108.94459	3/19/2013 12:55:05 PM 	1625 m			16 m	0:00:22	3 kph	191° true
+Trackpoint	N31.49009 W108.94461	3/19/2013 12:55:10 PM 	1624 m			3 m	0:00:05	2 kph	214° true
+Trackpoint	N31.49001 W108.94461	3/19/2013 12:55:18 PM 	1624 m			9 m	0:00:08	4 kph	181° true
+Trackpoint	N31.48996 W108.94458	3/19/2013 12:55:26 PM 	1625 m			6 m	0:00:08	3 kph	152° true
+Trackpoint	N31.48988 W108.94457	3/19/2013 12:55:36 PM 	1624 m			9 m	0:00:10	3 kph	176° true
+Trackpoint	N31.48981 W108.94460	3/19/2013 12:55:56 PM 	1624 m			9 m	0:00:20	2 kph	194° true
+Trackpoint	N31.48989 W108.94468	3/19/2013 12:56:08 PM 	1625 m			12 m	0:00:12	4 kph	318° true
+Trackpoint	N31.49001 W108.94474	3/19/2013 12:56:27 PM 	1624 m			14 m	0:00:19	3 kph	340° true
+Trackpoint	N31.49006 W108.94470	3/19/2013 12:56:34 PM 	1624 m			7 m	0:00:07	3 kph	30° true
+Trackpoint	N31.49018 W108.94465	3/19/2013 12:56:53 PM 	1624 m			14 m	0:00:19	3 kph	20° true
+Trackpoint	N31.49021 W108.94463	3/19/2013 12:57:00 PM 	1624 m			4 m	0:00:07	2 kph	28° true
+Trackpoint	N31.49025 W108.94459	3/19/2013 12:57:17 PM 	1625 m			6 m	0:00:17	1.3 kph	41° true
+Trackpoint	N31.49030 W108.94459	3/19/2013 12:57:28 PM 	1625 m			5 m	0:00:11	2 kph	359° true
+Trackpoint	N31.49043 W108.94455	3/19/2013 12:57:46 PM 	1625 m			15 m	0:00:18	3 kph	14° true
+Trackpoint	N31.49044 W108.94453	3/19/2013 12:58:04 PM 	1623 m			3 m	0:00:18	0.6 kph	60° true
+Trackpoint	N31.49045 W108.94453	3/19/2013 12:58:09 PM 	1623 m			0 m	0:00:05	0.2 kph	354° true
+Trackpoint	N31.49061 W108.94449	3/19/2013 12:58:29 PM 	1622 m			18 m	0:00:20	3 kph	10° true
+Trackpoint	N31.49078 W108.94438	3/19/2013 12:59:02 PM 	1623 m			22 m	0:00:33	2 kph	30° true
+Trackpoint	N31.49084 W108.94436	3/19/2013 12:59:16 PM 	1623 m			8 m	0:00:14	2 kph	16° true
+Trackpoint	N31.49093 W108.94436	3/19/2013 12:59:30 PM 	1622 m			11 m	0:00:14	3 kph	356° true
+Trackpoint	N31.49098 W108.94440	3/19/2013 12:59:40 PM 	1622 m			6 m	0:00:10	2 kph	325° true
+Trackpoint	N31.49106 W108.94441	3/19/2013 12:59:52 PM 	1623 m			9 m	0:00:12	3 kph	356° true
+Trackpoint	N31.49111 W108.94443	3/19/2013 1:00:01 PM 	1623 m			6 m	0:00:09	3 kph	342° true
+Trackpoint	N31.49117 W108.94451	3/19/2013 1:00:15 PM 	1622 m			9 m	0:00:14	2 kph	308° true
+Trackpoint	N31.49117 W108.94453	3/19/2013 1:00:35 PM 	1622 m			3 m	0:00:20	0.5 kph	276° true
+Trackpoint	N31.49125 W108.94452	3/19/2013 1:01:02 PM 	1623 m			9 m	0:00:27	1.2 kph	7° true
+Trackpoint	N31.49136 W108.94453	3/19/2013 1:01:15 PM 	1623 m			12 m	0:00:13	3 kph	356° true
+Trackpoint	N31.49136 W108.94447	3/19/2013 1:01:25 PM 	1622 m			6 m	0:00:10	2 kph	85° true
+Trackpoint	N31.49127 W108.94442	3/19/2013 1:01:39 PM 	1622 m			11 m	0:00:14	3 kph	155° true
+Trackpoint	N31.49121 W108.94440	3/19/2013 1:01:54 PM 	1623 m			7 m	0:00:15	2 kph	167° true
+Trackpoint	N31.49116 W108.94439	3/19/2013 1:02:07 PM 	1623 m			5 m	0:00:13	2 kph	163° true
+Trackpoint	N31.49113 W108.94438	3/19/2013 1:02:14 PM 	1623 m			3 m	0:00:07	2 kph	165° true
+Trackpoint	N31.49111 W108.94436	3/19/2013 1:02:22 PM 	1623 m			3 m	0:00:08	1.3 kph	150° true
+Trackpoint	N31.49107 W108.94435	3/19/2013 1:02:31 PM 	1623 m			4 m	0:00:09	2 kph	160° true
+Trackpoint	N31.49106 W108.94435	3/19/2013 1:02:42 PM 	1623 m			2 m	0:00:11	0.5 kph	200° true
+Trackpoint	N31.49103 W108.94433	3/19/2013 1:03:05 PM 	1623 m			4 m	0:00:23	0.7 kph	143° true
+Trackpoint	N31.49102 W108.94432	3/19/2013 1:03:19 PM 	1623 m			1 m	0:00:14	0.3 kph	152° true
+Trackpoint	N31.49097 W108.94438	3/19/2013 1:04:06 PM 	1624 m			8 m	0:00:47	0.6 kph	223° true
+Trackpoint	N31.49090 W108.94441	3/19/2013 1:04:25 PM 	1624 m			9 m	0:00:19	2 kph	206° true
+Trackpoint	N31.49088 W108.94441	3/19/2013 1:04:28 PM 	1624 m			2 m	0:00:03	2 kph	160° true
+Trackpoint	N31.49082 W108.94437	3/19/2013 1:04:37 PM 	1624 m			8 m	0:00:09	3 kph	156° true
+Trackpoint	N31.49078 W108.94435	3/19/2013 1:04:45 PM 	1624 m			5 m	0:00:08	2 kph	151° true
+Trackpoint	N31.49076 W108.94436	3/19/2013 1:04:49 PM 	1624 m			2 m	0:00:04	2 kph	198° true
+Trackpoint	N31.49070 W108.94437	3/19/2013 1:04:58 PM 	1624 m			7 m	0:00:09	3 kph	185° true
+Trackpoint	N31.49055 W108.94439	3/19/2013 1:05:16 PM 	1623 m			17 m	0:00:18	3 kph	187° true
+Trackpoint	N31.49046 W108.94442	3/19/2013 1:05:29 PM 	1625 m			11 m	0:00:13	3 kph	198° true
+Trackpoint	N31.49041 W108.94443	3/19/2013 1:05:38 PM 	1625 m			6 m	0:00:09	2 kph	190° true
+Trackpoint	N31.49037 W108.94441	3/19/2013 1:05:47 PM 	1625 m			5 m	0:00:09	2 kph	160° true
+Trackpoint	N31.49037 W108.94441	3/19/2013 1:05:56 PM 	1623 m			0 m	0:00:09	0.0 kph	12° true
+Trackpoint	N31.49037 W108.94441	3/19/2013 1:05:58 PM 	1624 m			0 m	0:00:02	0.1 kph	19° true
+Trackpoint	N31.49037 W108.94441	3/19/2013 1:05:59 PM 	1624 m			0 m	0:00:01	0.1 kph	16° true
+
+Track	ACTIVE LOG 007	3/19/2013 3:31:06 PM 	0:04:49	73 m	0.9 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.50967 W108.95299	3/19/2013 3:31:06 PM 	1646 m
+Trackpoint	N31.50967 W108.95299	3/19/2013 3:31:07 PM 	1646 m			0 m	0:00:01	0.1 kph	330° true
+Trackpoint	N31.50967 W108.95299	3/19/2013 3:31:08 PM 	1646 m			0 m	0:00:01	0.1 kph	337° true
+Trackpoint	N31.50963 W108.95295	3/19/2013 3:31:29 PM 	1646 m			6 m	0:00:21	1.1 kph	139° true
+Trackpoint	N31.50964 W108.95284	3/19/2013 3:31:46 PM 	1645 m			10 m	0:00:17	2 kph	85° true
+Trackpoint	N31.50969 W108.95279	3/19/2013 3:31:57 PM 	1645 m			8 m	0:00:11	2 kph	47° true
+Trackpoint	N31.50971 W108.95278	3/19/2013 3:32:08 PM 	1644 m			3 m	0:00:11	1.1 kph	3° true
+Trackpoint	N31.50972 W108.95279	3/19/2013 3:32:17 PM 	1644 m			1 m	0:00:09	0.5 kph	328° true
+Trackpoint	N31.50973 W108.95279	3/19/2013 3:32:24 PM 	1647 m			0 m	0:00:07	0.3 kph	296° true
+Trackpoint	N31.50973 W108.95280	3/19/2013 3:32:25 PM 	1647 m			0 m	0:00:01	0.2 kph	300° true
+Trackpoint	N31.50973 W108.95280	3/19/2013 3:32:26 PM 	1644 m			0 m	0:00:01	0.2 kph	308° true
+Trackpoint	N31.50973 W108.95280	3/19/2013 3:32:27 PM 	1644 m			0 m	0:00:01	0.2 kph	300° true
+Trackpoint	N31.50973 W108.95280	3/19/2013 3:32:31 PM 	1648 m			1 m	0:00:04	0.6 kph	260° true
+Trackpoint	N31.50973 W108.95280	3/19/2013 3:32:32 PM 	1648 m			0 m	0:00:01	0.4 kph	247° true
+Trackpoint	N31.50973 W108.95280	3/19/2013 3:32:36 PM 	1645 m			0 m	0:00:04	0.2 kph	10° true
+Trackpoint	N31.50973 W108.95281	3/19/2013 3:32:41 PM 	1646 m			1 m	0:00:05	0.4 kph	294° true
+Trackpoint	N31.50974 W108.95282	3/19/2013 3:32:45 PM 	1643 m			2 m	0:00:04	1.4 kph	307° true
+Trackpoint	N31.50974 W108.95282	3/19/2013 3:32:46 PM 	1643 m			0 m	0:00:01	0 kph	0° true
+Trackpoint	N31.50974 W108.95282	3/19/2013 3:32:47 PM 	1648 m			0 m	0:00:01	2 kph	63° true
+Trackpoint	N31.50974 W108.95282	3/19/2013 3:32:48 PM 	1648 m			0 m	0:00:01	0.9 kph	69° true
+Trackpoint	N31.50974 W108.95281	3/19/2013 3:32:49 PM 	1644 m			0 m	0:00:01	0.9 kph	69° true
+Trackpoint	N31.50974 W108.95281	3/19/2013 3:32:50 PM 	1644 m			0 m	0:00:01	0.8 kph	71° true
+Trackpoint	N31.50976 W108.95280	3/19/2013 3:32:55 PM 	1645 m			2 m	0:00:05	1.3 kph	30° true
+Trackpoint	N31.50976 W108.95281	3/19/2013 3:33:09 PM 	1644 m			1 m	0:00:14	0.2 kph	319° true
+Trackpoint	N31.50976 W108.95281	3/19/2013 3:34:09 PM 	1645 m			1 m	0:01:00	0.0 kph	252° true
+Trackpoint	N31.50977 W108.95283	3/19/2013 3:34:15 PM 	1645 m			2 m	0:00:06	1.2 kph	292° true
+Trackpoint	N31.50977 W108.95283	3/19/2013 3:34:22 PM 	1645 m			1 m	0:00:07	0.3 kph	29° true
+Trackpoint	N31.50977 W108.95283	3/19/2013 3:34:44 PM 	1645 m			0 m	0:00:22	0.1 kph	268° true
+Trackpoint	N31.50979 W108.95287	3/19/2013 3:34:52 PM 	1645 m			5 m	0:00:08	2 kph	302° true
+Trackpoint	N31.50981 W108.95293	3/19/2013 3:35:05 PM 	1645 m			6 m	0:00:13	2 kph	292° true
+Trackpoint	N31.50979 W108.95297	3/19/2013 3:35:18 PM 	1645 m			5 m	0:00:13	1.5 kph	238° true
+Trackpoint	N31.50974 W108.95301	3/19/2013 3:35:30 PM 	1645 m			6 m	0:00:12	2 kph	212° true
+Trackpoint	N31.50966 W108.95302	3/19/2013 3:35:47 PM 	1645 m			10 m	0:00:17	2 kph	189° true
+Trackpoint	N31.50964 W108.95302	3/19/2013 3:35:55 PM 	1646 m			2 m	0:00:08	0.9 kph	162° true
+
+Track	ACTIVE LOG 008	3/19/2013 6:12:11 PM 	0:02:21	121 m	3 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.52580 W108.97624	3/19/2013 6:12:11 PM 	1645 m
+Trackpoint	N31.52580 W108.97624	3/19/2013 6:12:12 PM 	1645 m			0 m	0:00:01	0.2 kph	131° true
+Trackpoint	N31.52580 W108.97624	3/19/2013 6:12:13 PM 	1644 m			0 m	0:00:01	0.2 kph	140° true
+Trackpoint	N31.52577 W108.97620	3/19/2013 6:12:19 PM 	1642 m			5 m	0:00:06	3 kph	128° true
+Trackpoint	N31.52574 W108.97612	3/19/2013 6:12:27 PM 	1641 m			8 m	0:00:08	4 kph	113° true
+Trackpoint	N31.52569 W108.97585	3/19/2013 6:12:50 PM 	1638 m			26 m	0:00:23	4 kph	103° true
+Trackpoint	N31.52563 W108.97571	3/19/2013 6:13:05 PM 	1637 m			15 m	0:00:15	4 kph	116° true
+Trackpoint	N31.52555 W108.97554	3/19/2013 6:13:25 PM 	1638 m			18 m	0:00:20	3 kph	118° true
+Trackpoint	N31.52550 W108.97544	3/19/2013 6:13:38 PM 	1637 m			11 m	0:00:13	3 kph	120° true
+Trackpoint	N31.52548 W108.97530	3/19/2013 6:13:53 PM 	1636 m			13 m	0:00:15	3 kph	103° true
+Trackpoint	N31.52542 W108.97510	3/19/2013 6:14:16 PM 	1637 m			20 m	0:00:23	3 kph	107° true
+Trackpoint	N31.52542 W108.97505	3/19/2013 6:14:32 PM 	1638 m			4 m	0:00:16	1.0 kph	98° true
+
+Track	ACTIVE LOG 009	3/20/2013 12:27:35 PM 	0:04:26	49 m	0.7 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.50728 W108.99495	3/20/2013 12:27:35 PM 	1684 m
+Trackpoint	N31.50728 W108.99495	3/20/2013 12:27:36 PM 	1684 m			0 m	0:00:01	0.2 kph	346° true
+Trackpoint	N31.50728 W108.99495	3/20/2013 12:27:37 PM 	1684 m			0 m	0:00:01	0.1 kph	344° true
+Trackpoint	N31.50725 W108.99493	3/20/2013 12:28:18 PM 	1684 m			4 m	0:00:41	0.4 kph	148° true
+Trackpoint	N31.50723 W108.99497	3/20/2013 12:28:27 PM 	1685 m			4 m	0:00:09	2 kph	234° true
+Trackpoint	N31.50723 W108.99498	3/20/2013 12:28:51 PM 	1688 m			2 m	0:00:24	0.3 kph	274° true
+Trackpoint	N31.50721 W108.99497	3/20/2013 12:29:03 PM 	1687 m			3 m	0:00:12	0.8 kph	152° true
+Trackpoint	N31.50723 W108.99496	3/20/2013 12:29:18 PM 	1688 m			3 m	0:00:15	0.7 kph	30° true
+Trackpoint	N31.50725 W108.99493	3/20/2013 12:29:42 PM 	1686 m			4 m	0:00:24	0.6 kph	46° true
+Trackpoint	N31.50725 W108.99490	3/20/2013 12:29:53 PM 	1687 m			2 m	0:00:11	0.8 kph	101° true
+Trackpoint	N31.50728 W108.99489	3/20/2013 12:30:07 PM 	1686 m			3 m	0:00:14	0.8 kph	24° true
+Trackpoint	N31.50732 W108.99489	3/20/2013 12:30:16 PM 	1686 m			5 m	0:00:09	2 kph	355° true
+Trackpoint	N31.50733 W108.99491	3/20/2013 12:30:31 PM 	1685 m			2 m	0:00:15	0.5 kph	293° true
+Trackpoint	N31.50735 W108.99493	3/20/2013 12:30:46 PM 	1685 m			3 m	0:00:15	0.6 kph	313° true
+Trackpoint	N31.50734 W108.99495	3/20/2013 12:31:02 PM 	1685 m			2 m	0:00:16	0.4 kph	228° true
+Trackpoint	N31.50734 W108.99497	3/20/2013 12:31:09 PM 	1685 m			2 m	0:00:07	0.9 kph	281° true
+Trackpoint	N31.50739 W108.99502	3/20/2013 12:31:21 PM 	1685 m			8 m	0:00:12	2 kph	319° true
+Trackpoint	N31.50738 W108.99502	3/20/2013 12:31:42 PM 	1685 m			2 m	0:00:21	0.3 kph	189° true
+Trackpoint	N31.50738 W108.99502	3/20/2013 12:31:44 PM 	1688 m			0 m	0:00:02	0.1 kph	270° true
+Trackpoint	N31.50738 W108.99502	3/20/2013 12:31:46 PM 	1686 m			0 m	0:00:02	0.1 kph	249° true
+Trackpoint	N31.50737 W108.99502	3/20/2013 12:32:01 PM 	1687 m			1 m	0:00:15	0.1 kph	170° true
+
+Track	ACTIVE LOG 010	3/23/2013 11:15:43 AM 	0:01:21	15 m	0.7 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.50583 W109.02759	3/23/2013 11:15:43 AM 	1740 m
+Trackpoint	N31.50583 W109.02759	3/23/2013 11:15:44 AM 	1740 m			0 m	0:00:01	0.6 kph	234° true
+Trackpoint	N31.50583 W109.02759	3/23/2013 11:15:45 AM 	1739 m			0 m	0:00:01	0.5 kph	236° true
+Trackpoint	N31.50578 W109.02764	3/23/2013 11:16:08 AM 	1741 m			8 m	0:00:23	1.2 kph	222° true
+Trackpoint	N31.50576 W109.02768	3/23/2013 11:16:42 AM 	1742 m			4 m	0:00:34	0.5 kph	238° true
+Trackpoint	N31.50576 W109.02771	3/23/2013 11:17:04 AM 	1742 m			3 m	0:00:22	0.5 kph	281° true
