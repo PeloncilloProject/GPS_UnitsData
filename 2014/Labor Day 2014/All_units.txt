@@ -1,0 +1,160 @@
+Grid	Lat/Lon hddd.ddddd°
+Datum	WGS 84
+
+Header	Name	Description	Type	Position	Altitude	Depth	Proximity	Temperature	Display Mode	Color	Symbol	Facility	City	State	Country	Date Modified	Link	Categories
+
+Waypoint	C&C	30-AUG-14 17:53:43	User Waypoint	N31.52697 W108.97856	1656 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	CNTEND2M	30-AUG-14 11:30:03AM	User Waypoint	N31.49310 W108.93679	1630 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	CNTSTART	30-AUG-14 11:25:24AM	User Waypoint	N31.49168 W108.93706	1634 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Dead Tur X2	30-AUG-14 13:07:08	User Waypoint	N31.50757 W109.01039	1687 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Dor Liz Yta	30-AUG-14 17:55:02	User Waypoint	N31.52670 W108.97809	1655 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Gs Con Hyla	30-AUG-14 13:03:55	User Waypoint	N31.50743 W109.01041	1687 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Gs Md No Hb	30-AUG-14 13:02:11	User Waypoint	N31.50706 W109.01030	1688 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	LOG1	30-AUG-14 2:33:39PM	User Waypoint	N31.48581 W108.94732	1636 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	LOG2	30-AUG-14 2:35:41PM	User Waypoint	N31.48578 W108.94738	1636 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Nohb	30-AUG-14 12:41:08	User Waypoint	N31.50579 W109.01306	1696 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Pb	30-AUG-14 17:46:42	User Waypoint	N31.52694 W108.97877	1658 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	T172 CON LG	30-AUG-14 11:11:15	User Waypoint	N31.50274 W109.01798	1718 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	T2155 DRY CANY	30-AUG-14 13:59:07	User Waypoint	N31.50840 W109.00785	1683 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	T361 SM	30-AUG-14 9:15:17	User Waypoint	N31.50847 W109.00774	1699 m				Symbol & Name	Black	Flag, Blue							
+Waypoint	Triops Spea10M	30-AUG-14 7:11:01	User Waypoint	N31.52695 W108.97909	1585 m				Symbol & Name	Black	Flag, Blue							
+
+
+Header	Name	Start Time	Elapsed Time	Length	Average Speed	Link
+
+Track	ACTIVE LOG 006	8/30/2014 12:35:22 PM 	0:11:06	329 m	2 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.49333 W108.93698	8/30/2014 12:35:22 PM 	1630 m
+Trackpoint	N31.49333 W108.93698	8/30/2014 12:35:23 PM 	1630 m			0 m	0:00:01	0.1 kph	0° true
+Trackpoint	N31.49333 W108.93698	8/30/2014 12:35:24 PM 	1630 m			0 m	0:00:01	0.0 kph	40° true
+Trackpoint	N31.49333 W108.93702	8/30/2014 12:35:44 PM 	1630 m			4 m	0:00:20	0.7 kph	273° true
+Trackpoint	N31.49333 W108.93722	8/30/2014 12:35:59 PM 	1630 m			19 m	0:00:15	5 kph	270° true
+Trackpoint	N31.49334 W108.93728	8/30/2014 12:36:05 PM 	1630 m			5 m	0:00:06	3 kph	276° true
+Trackpoint	N31.49338 W108.93741	8/30/2014 12:36:16 PM 	1631 m			13 m	0:00:11	4 kph	293° true
+Trackpoint	N31.49346 W108.93758	8/30/2014 12:36:33 PM 	1631 m			19 m	0:00:17	4 kph	298° true
+Trackpoint	N31.49355 W108.93767	8/30/2014 12:36:46 PM 	1630 m			13 m	0:00:13	4 kph	318° true
+Trackpoint	N31.49357 W108.93770	8/30/2014 12:36:51 PM 	1630 m			4 m	0:00:05	3 kph	310° true
+Trackpoint	N31.49359 W108.93783	8/30/2014 12:37:06 PM 	1630 m			12 m	0:00:15	3 kph	283° true
+Trackpoint	N31.49364 W108.93787	8/30/2014 12:37:16 PM 	1630 m			6 m	0:00:10	2 kph	325° true
+Trackpoint	N31.49366 W108.93789	8/30/2014 12:37:25 PM 	1630 m			3 m	0:00:09	1.3 kph	322° true
+Trackpoint	N31.49367 W108.93790	8/30/2014 12:38:21 PM 	1628 m			1 m	0:00:56	0.1 kph	313° true
+Trackpoint	N31.49363 W108.93779	8/30/2014 12:38:30 PM 	1629 m			11 m	0:00:09	4 kph	113° true
+Trackpoint	N31.49362 W108.93774	8/30/2014 12:38:38 PM 	1629 m			5 m	0:00:08	2 kph	104° true
+Trackpoint	N31.49362 W108.93773	8/30/2014 12:38:59 PM 	1627 m			1 m	0:00:21	0.1 kph	42° true
+Trackpoint	N31.49362 W108.93773	8/30/2014 12:41:28 PM 	1631 m			1 m	0:02:29	0.0 kph	177° true
+Trackpoint	N31.49361 W108.93773	8/30/2014 12:41:50 PM 	1630 m			1 m	0:00:22	0.1 kph	162° true
+Trackpoint	N31.49359 W108.93768	8/30/2014 12:42:04 PM 	1630 m			5 m	0:00:14	1.4 kph	116° true
+Trackpoint	N31.49361 W108.93760	8/30/2014 12:42:18 PM 	1631 m			8 m	0:00:14	2 kph	75° true
+Trackpoint	N31.49358 W108.93752	8/30/2014 12:42:27 PM 	1631 m			8 m	0:00:09	3 kph	115° true
+Trackpoint	N31.49354 W108.93745	8/30/2014 12:42:37 PM 	1631 m			8 m	0:00:10	3 kph	117° true
+Trackpoint	N31.49350 W108.93737	8/30/2014 12:42:47 PM 	1631 m			9 m	0:00:10	3 kph	125° true
+Trackpoint	N31.49349 W108.93732	8/30/2014 12:42:51 PM 	1631 m			5 m	0:00:04	4 kph	104° true
+Trackpoint	N31.49343 W108.93730	8/30/2014 12:42:57 PM 	1630 m			7 m	0:00:06	4 kph	166° true
+Trackpoint	N31.49342 W108.93727	8/30/2014 12:42:59 PM 	1630 m			3 m	0:00:02	5 kph	104° true
+Trackpoint	N31.49341 W108.93703	8/30/2014 12:43:15 PM 	1629 m			23 m	0:00:16	5 kph	94° true
+Trackpoint	N31.49345 W108.93699	8/30/2014 12:43:20 PM 	1630 m			6 m	0:00:05	5 kph	36° true
+Trackpoint	N31.49348 W108.93711	8/30/2014 12:43:30 PM 	1630 m			12 m	0:00:10	4 kph	286° true
+Trackpoint	N31.49350 W108.93707	8/30/2014 12:43:36 PM 	1630 m			4 m	0:00:06	3 kph	61° true
+Trackpoint	N31.49351 W108.93695	8/30/2014 12:43:49 PM 	1629 m			12 m	0:00:13	3 kph	88° true
+Trackpoint	N31.49351 W108.93693	8/30/2014 12:43:51 PM 	1629 m			1 m	0:00:02	2 kph	89° true
+Trackpoint	N31.49353 W108.93687	8/30/2014 12:44:00 PM 	1630 m			7 m	0:00:09	3 kph	64° true
+Trackpoint	N31.49355 W108.93694	8/30/2014 12:44:08 PM 	1629 m			8 m	0:00:08	4 kph	285° true
+Trackpoint	N31.49355 W108.93693	8/30/2014 12:44:10 PM 	1630 m			2 m	0:00:02	3 kph	81° true
+Trackpoint	N31.49355 W108.93690	8/30/2014 12:44:13 PM 	1629 m			2 m	0:00:03	3 kph	106° true
+Trackpoint	N31.49360 W108.93693	8/30/2014 12:44:20 PM 	1629 m			6 m	0:00:07	3 kph	340° true
+Trackpoint	N31.49360 W108.93693	8/30/2014 12:44:30 PM 	1630 m			1 m	0:00:10	0.3 kph	290° true
+Trackpoint	N31.49356 W108.93693	8/30/2014 12:44:47 PM 	1629 m			5 m	0:00:17	1.1 kph	174° true
+Trackpoint	N31.49357 W108.93691	8/30/2014 12:44:51 PM 	1629 m			2 m	0:00:04	2 kph	52° true
+Trackpoint	N31.49361 W108.93683	8/30/2014 12:45:04 PM 	1630 m			9 m	0:00:13	3 kph	59° true
+Trackpoint	N31.49360 W108.93678	8/30/2014 12:45:20 PM 	1630 m			5 m	0:00:16	1.2 kph	99° true
+Trackpoint	N31.49359 W108.93677	8/30/2014 12:45:28 PM 	1630 m			2 m	0:00:08	0.8 kph	159° true
+Trackpoint	N31.49355 W108.93676	8/30/2014 12:45:33 PM 	1630 m			5 m	0:00:05	3 kph	164° true
+Trackpoint	N31.49344 W108.93683	8/30/2014 12:45:44 PM 	1631 m			14 m	0:00:11	5 kph	209° true
+Trackpoint	N31.49338 W108.93690	8/30/2014 12:45:51 PM 	1630 m			9 m	0:00:07	5 kph	227° true
+Trackpoint	N31.49333 W108.93691	8/30/2014 12:45:57 PM 	1630 m			6 m	0:00:06	4 kph	192° true
+Trackpoint	N31.49333 W108.93693	8/30/2014 12:45:59 PM 	1630 m			2 m	0:00:02	4 kph	296° true
+Trackpoint	N31.49341 W108.93697	8/30/2014 12:46:09 PM 	1628 m			10 m	0:00:10	3 kph	335° true
+Trackpoint	N31.49341 W108.93700	8/30/2014 12:46:18 PM 	1629 m			2 m	0:00:09	0.9 kph	261° true
+Trackpoint	N31.49341 W108.93700	8/30/2014 12:46:28 PM 	1628 m			1 m	0:00:10	0.2 kph	196° true
+
+Track	ACTIVE LOG 007	8/30/2014 12:46:46 PM 	0:00:02	0 m	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.49340 W108.93700	8/30/2014 12:46:46 PM 	1629 m
+Trackpoint	N31.49340 W108.93700	8/30/2014 12:46:48 PM 	1629 m			0 m	0:00:02	0 kph	0° true
+
+Track	ACTIVE LOG 008	8/30/2014 12:46:54 PM 	0:00:35	35 m	4 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.49328 W108.93691	8/30/2014 12:46:54 PM 	1629 m
+Trackpoint	N31.49328 W108.93684	8/30/2014 12:46:59 PM 	1628 m			7 m	0:00:05	5 kph	91° true
+Trackpoint	N31.49333 W108.93681	8/30/2014 12:47:04 PM 	1629 m			6 m	0:00:05	4 kph	24° true
+Trackpoint	N31.49334 W108.93681	8/30/2014 12:47:05 PM 	1629 m			1 m	0:00:01	4 kph	355° true
+Trackpoint	N31.49342 W108.93677	8/30/2014 12:47:13 PM 	1629 m			11 m	0:00:08	5 kph	24° true
+Trackpoint	N31.49349 W108.93673	8/30/2014 12:47:21 PM 	1629 m			8 m	0:00:08	4 kph	21° true
+Trackpoint	N31.49349 W108.93674	8/30/2014 12:47:29 PM 	1629 m			1 m	0:00:08	0.4 kph	251° true
+
+Track	ACTIVE LOG 108	8/30/2014 11:22:32 AM 	0:02:48	67 m	1.4 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.49813 W109.02059	8/30/2014 11:22:32 AM 	1734 m
+Trackpoint	N31.49813 W109.02059	8/30/2014 11:22:33 AM 	1734 m			0 m	0:00:01	0.0 kph	270° true
+Trackpoint	N31.49813 W109.02059	8/30/2014 11:22:34 AM 	1733 m			0 m	0:00:01	0.1 kph	240° true
+Trackpoint	N31.49813 W109.02060	8/30/2014 11:22:47 AM 	1735 m			1 m	0:00:13	0.3 kph	250° true
+Trackpoint	N31.49813 W109.02061	8/30/2014 11:23:00 AM 	1734 m			1 m	0:00:13	0.3 kph	300° true
+Trackpoint	N31.49813 W109.02061	8/30/2014 11:23:01 AM 	1734 m			0 m	0:00:01	0.2 kph	180° true
+Trackpoint	N31.49811 W109.02064	8/30/2014 11:23:06 AM 	1734 m			3 m	0:00:05	2 kph	234° true
+Trackpoint	N31.49809 W109.02067	8/30/2014 11:23:11 AM 	1733 m			4 m	0:00:05	3 kph	229° true
+Trackpoint	N31.49808 W109.02071	8/30/2014 11:23:20 AM 	1734 m			5 m	0:00:09	2 kph	251° true
+Trackpoint	N31.49806 W109.02074	8/30/2014 11:23:28 AM 	1733 m			3 m	0:00:08	2 kph	240° true
+Trackpoint	N31.49805 W109.02076	8/30/2014 11:23:31 AM 	1734 m			2 m	0:00:03	2 kph	227° true
+Trackpoint	N31.49802 W109.02078	8/30/2014 11:23:38 AM 	1734 m			4 m	0:00:07	2 kph	209° true
+Trackpoint	N31.49800 W109.02080	8/30/2014 11:23:46 AM 	1734 m			3 m	0:00:08	1.4 kph	221° true
+Trackpoint	N31.49797 W109.02086	8/30/2014 11:24:00 AM 	1734 m			7 m	0:00:14	2 kph	240° true
+Trackpoint	N31.49796 W109.02087	8/30/2014 11:24:01 AM 	1734 m			1 m	0:00:01	2 kph	214° true
+Trackpoint	N31.49794 W109.02084	8/30/2014 11:24:09 AM 	1734 m			3 m	0:00:08	1.4 kph	134° true
+Trackpoint	N31.49792 W109.02081	8/30/2014 11:24:19 AM 	1734 m			4 m	0:00:10	2 kph	127° true
+Trackpoint	N31.49790 W109.02081	8/30/2014 11:24:26 AM 	1734 m			2 m	0:00:07	1.2 kph	187° true
+Trackpoint	N31.49787 W109.02084	8/30/2014 11:24:35 AM 	1733 m			4 m	0:00:09	2 kph	226° true
+Trackpoint	N31.49784 W109.02086	8/30/2014 11:24:43 AM 	1733 m			4 m	0:00:08	2 kph	205° true
+Trackpoint	N31.49780 W109.02087	8/30/2014 11:24:52 AM 	1733 m			5 m	0:00:09	2 kph	192° true
+Trackpoint	N31.49777 W109.02090	8/30/2014 11:25:02 AM 	1732 m			4 m	0:00:10	1.4 kph	216° true
+Trackpoint	N31.49774 W109.02092	8/30/2014 11:25:11 AM 	1734 m			4 m	0:00:09	2 kph	217° true
+Trackpoint	N31.49772 W109.02093	8/30/2014 11:25:20 AM 	1734 m			2 m	0:00:09	0.7 kph	201° true
+
+Track	ACTIVE LOG 109	8/30/2014 11:27:57 AM 	0:00:02	0 m	0 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.49773 W109.02094	8/30/2014 11:27:57 AM 	1732 m
+Trackpoint	N31.49773 W109.02094	8/30/2014 11:27:59 AM 	1732 m			0 m	0:00:02	0 kph	0° true
+
+Track	ACTIVE LOG 110	8/30/2014 11:28:07 AM 	0:02:47	59 m	1.3 kph	
+
+Header	Position	Time	Altitude	Depth	Temperature	Leg Length	Leg Time	Leg Speed	Leg Course
+
+Trackpoint	N31.49798 W109.02059	8/30/2014 11:28:07 AM 	1732 m
+Trackpoint	N31.49801 W109.02055	8/30/2014 11:28:41 AM 	1733 m			5 m	0:00:34	0.5 kph	46° true
+Trackpoint	N31.49800 W109.02057	8/30/2014 11:28:45 AM 	1734 m			2 m	0:00:04	2 kph	220° true
+Trackpoint	N31.49795 W109.02061	8/30/2014 11:28:54 AM 	1734 m			7 m	0:00:09	3 kph	214° true
+Trackpoint	N31.49792 W109.02064	8/30/2014 11:29:02 AM 	1733 m			4 m	0:00:08	2 kph	233° true
+Trackpoint	N31.49791 W109.02067	8/30/2014 11:29:09 AM 	1734 m			3 m	0:00:07	2 kph	245° true
+Trackpoint	N31.49790 W109.02069	8/30/2014 11:29:16 AM 	1733 m			3 m	0:00:07	1.4 kph	228° true
+Trackpoint	N31.49788 W109.02071	8/30/2014 11:29:22 AM 	1733 m			2 m	0:00:06	1.3 kph	234° true
+Trackpoint	N31.49787 W109.02073	8/30/2014 11:29:29 AM 	1734 m			2 m	0:00:07	1.1 kph	231° true
+Trackpoint	N31.49786 W109.02077	8/30/2014 11:29:37 AM 	1735 m			4 m	0:00:08	2 kph	241° true
+Trackpoint	N31.49784 W109.02080	8/30/2014 11:29:45 AM 	1735 m			4 m	0:00:08	2 kph	234° true
+Trackpoint	N31.49781 W109.02082	8/30/2014 11:29:53 AM 	1735 m			4 m	0:00:08	2 kph	211° true
+Trackpoint	N31.49778 W109.02083	8/30/2014 11:30:01 AM 	1736 m			4 m	0:00:08	2 kph	203° true
+Trackpoint	N31.49776 W109.02086	8/30/2014 11:30:10 AM 	1735 m			3 m	0:00:09	1.4 kph	234° true
+Trackpoint	N31.49773 W109.02088	8/30/2014 11:30:18 AM 	1735 m			3 m	0:00:08	1.4 kph	210° true
+Trackpoint	N31.49771 W109.02090	8/30/2014 11:30:26 AM 	1735 m			3 m	0:00:08	1.4 kph	214° true
+Trackpoint	N31.49770 W109.02091	8/30/2014 11:30:33 AM 	1735 m			2 m	0:00:07	0.8 kph	230° true
+Trackpoint	N31.49770 W109.02093	8/30/2014 11:30:41 AM 	1734 m			2 m	0:00:08	1.1 kph	278° true
+Trackpoint	N31.49772 W109.02094	8/30/2014 11:30:51 AM 	1734 m			2 m	0:00:10	0.8 kph	352° true
+Trackpoint	N31.49772 W109.02094	8/30/2014 11:30:54 AM 	1734 m			0 m	0:00:03	0.2 kph	264° true
